@@ -1,0 +1,958 @@
+{
+  "scraped_at": "2026-06-12T12:10:33.830026+00:00",
+  "run": "20260612_121033",
+  "days_back": 3,
+  "min_confidence": 0.5,
+  "total_articles": 263,
+  "total_raw": 59,
+  "incidents": [
+    {
+      "country": "Sudan",
+      "region": "Darfur",
+      "date": "2026-06-09",
+      "type": "Armed Conflict",
+      "description": "Darfur rights group records 470 deaths in air strikes and drone attacks",
+      "severity": "Critical",
+      "source": "Dabanga Sudan",
+      "sourceUrl": "https://www.dabangasudan.org/en/all-news/article/darfur-rights-group-records-470-deaths-in-air-strikes-and-drone-attacks",
+      "_confidence": 0.8,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Sudan"
+      ],
+      "_raw_title": "Darfur rights group records 470 deaths in air strikes and drone attacks"
+    },
+    {
+      "country": "Sudan",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Drone Attack",
+      "description": "Deadly Sudan drone strike targets funeral procession",
+      "severity": "Critical",
+      "source": "BBC Sudan",
+      "sourceUrl": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss",
+      "_confidence": 0.9,
+      "_threat_specific": true,
+      "_all_countries": [
+        "Sudan"
+      ],
+      "_raw_title": "Deadly Sudan drone strike targets funeral procession"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "South Sudan Border Crisis: Equipping Local Groups for Life-Saving Care",
+      "severity": "Critical",
+      "source": "ReliefWeb",
+      "sourceUrl": "https://reliefweb.int/report/south-sudan/south-sudan-border-crisis-equipping-local-groups-life-saving-care",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "South Sudan Border Crisis: Equipping Local Groups for Life-Saving Care"
+    },
+    {
+      "country": "Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "World: Global Conflict Systems - Global Peace Index 2026: Special Supplement",
+      "severity": "Critical",
+      "source": "ReliefWeb",
+      "sourceUrl": "https://reliefweb.int/report/world/global-conflict-systems-global-peace-index-2026-special-supplement",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Sudan"
+      ],
+      "_raw_title": "World: Global Conflict Systems - Global Peace Index 2026: Special Supplement"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Warrap",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Cattle raider kills herdsman, steals 20 cattle in Warrap’s Twic County",
+      "severity": "High",
+      "source": "Sudans Post",
+      "sourceUrl": "https://www.sudanspost.com/cattle-raider-kills-herdsman-steals-20-cattle-in-warraps-twic-county/?utm_source=rss&utm_medium=rss&utm_campaign=cattle-raider-kills-herdsman-steals-20-cattle-in-warraps-twic-county",
+      "_confidence": 0.75,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Cattle raider kills herdsman, steals 20 cattle in Warrap’s Twic County"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Jonglei State",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "UK welcomes SSPDF pledge to halt offensive operations in Jonglei",
+      "severity": "High",
+      "source": "Sudans Post",
+      "sourceUrl": "https://www.sudanspost.com/uk-welcomes-sspdf-pledge-to-halt-offensive-operations-in-jonglei/?utm_source=rss&utm_medium=rss&utm_campaign=uk-welcomes-sspdf-pledge-to-halt-offensive-operations-in-jonglei",
+      "_confidence": 0.75,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "UK welcomes SSPDF pledge to halt offensive operations in Jonglei"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Mogadishu escapes another night of bloodshed as government troops pull back from opposition area",
+      "severity": "High",
+      "source": "Somali Guardian",
+      "sourceUrl": "https://www.somaliguardian.com/news/somalia-news/mogadishu-averts-crisis-government-troops-withdraw/",
+      "_confidence": 0.75,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Mogadishu escapes another night of bloodshed as government troops pull back from opposition area"
+    },
+    {
+      "country": "Sudan",
+      "region": "North Kordofan",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Dozens killed in drone attacks across Sudan as El Obeid toll reaches 23",
+      "severity": "High",
+      "source": "Dabanga Sudan",
+      "sourceUrl": "https://www.dabangasudan.org/en/all-news/article/dozens-killed-in-drone-attacks-across-sudan-as-el-obeid-toll-reaches-23",
+      "_confidence": 0.75,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Sudan"
+      ],
+      "_raw_title": "Dozens killed in drone attacks across Sudan as El Obeid toll reaches 23"
+    },
+    {
+      "country": "Sudan",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Sudan embassy condemns Belfast stabbing as fears grow among migrants",
+      "severity": "High",
+      "source": "Dabanga Sudan",
+      "sourceUrl": "https://www.dabangasudan.org/en/all-news/article/sudan-embassy-condemns-belfast-stabbing-as-fears-grow-among-migrants",
+      "_confidence": 0.75,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Sudan"
+      ],
+      "_raw_title": "Sudan embassy condemns Belfast stabbing as fears grow among migrants"
+    },
+    {
+      "country": "Sudan",
+      "region": "National",
+      "date": "2026-06-09",
+      "type": "Armed Conflict",
+      "description": "Int’l group backs civilian led Sudan dialogue within six months",
+      "severity": "Medium",
+      "source": "Dabanga Sudan",
+      "sourceUrl": "https://www.dabangasudan.org/en/all-news/article/intl-group-backs-civilian-led-sudan-dialogue-within-six-months",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Sudan"
+      ],
+      "_raw_title": "Int’l group backs civilian led Sudan dialogue within six months"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Terrorism",
+      "description": "Al-Shabaab reacts to U.S. entry denial of Somali World Cup referee Omar Artan",
+      "severity": "Medium",
+      "source": "Somali Guardian",
+      "sourceUrl": "https://www.somaliguardian.com/news/somalia-news/somali-al-shabaab-omar-artan-us-entry-denial/",
+      "_confidence": 0.75,
+      "_threat_specific": true,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Al-Shabaab reacts to U.S. entry denial of Somali World Cup referee Omar Artan"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Somalia parliament speaker Adan Madobe elected Southwest state president",
+      "severity": "Medium",
+      "source": "Somali Guardian",
+      "sourceUrl": "https://www.somaliguardian.com/news/somalia-news/somalia-parliament-speaker-adan-madobe-elected-southwest-president/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somalia parliament speaker Adan Madobe elected Southwest state president"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Somali referee Omar Artan returns home to hero’s welcome after U.S. entry denial ends historic FIFA World Cup dream",
+      "severity": "Medium",
+      "source": "Somali Guardian",
+      "sourceUrl": "https://www.somaliguardian.com/news/somalia-news/omar-artan/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somali referee Omar Artan returns home to hero’s welcome after U.S. entry denial ends historic FIFA World Cup dream"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "National Communications Authority and National IPv6 Center Hold Workshop on IPv6 Implementation",
+      "severity": "Medium",
+      "source": "SONNA Somalia",
+      "sourceUrl": "https://sonna.so/en/national-communications-authority-and-national-ipv6-center-hold-workshop-on-ipv6-implementation/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "National Communications Authority and National IPv6 Center Hold Workshop on IPv6 Implementation"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Somalia Voices Concern Over U.S. Travel Denial for Award-Winning Referee Omar Artan",
+      "severity": "Medium",
+      "source": "SONNA Somalia",
+      "sourceUrl": "https://sonna.so/en/somalia-voices-concern-over-u-s-travel-denial-for-award-winning-referee-omar-artan/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somalia Voices Concern Over U.S. Travel Denial for Award-Winning Referee Omar Artan"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Prime Minister Hamza Congratulates New Southwest State Leader",
+      "severity": "Medium",
+      "source": "SONNA Somalia",
+      "sourceUrl": "https://sonna.so/en/prime-minister-hamza-congratulates-new-southwest-state-leader/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Prime Minister Hamza Congratulates New Southwest State Leader"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Somalia, EU Strengthen Cooperation on Media and Countering Misinformation",
+      "severity": "Medium",
+      "source": "SONNA Somalia",
+      "sourceUrl": "https://sonna.so/en/somalia-eu-strengthen-cooperation-on-media-and-countering-misinformation/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somalia, EU Strengthen Cooperation on Media and Countering Misinformation"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "President Hassan Sheikh Mohamud Congratulates Sheikh Adan Mohamed Nur “Madobe” on Election as Southwest State Leader",
+      "severity": "Medium",
+      "source": "SONNA Somalia",
+      "sourceUrl": "https://sonna.so/en/president-hassan-sheikh-mohamud-congratulates-sheikh-adan-mohamed-nur-madobe-on-election-as-southwest-state-leader/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "President Hassan Sheikh Mohamud Congratulates Sheikh Adan Mohamed Nur “Madobe” on Election as Southwest State Leader"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Somalia Accords Hero’s Welcome to Africa’s Best Referee Omar Abdulkadir Artan Amid World Cup Visa Controversy",
+      "severity": "Medium",
+      "source": "SONNA Somalia",
+      "sourceUrl": "https://sonna.so/en/somalia-accords-heros-welcome-to-africas-best-referee-omar-abdulkadir-artan-amid-world-cup-visa-controversy/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somalia Accords Hero’s Welcome to Africa’s Best Referee Omar Abdulkadir Artan Amid World Cup Visa Controversy"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Somalia: Hero’s Welcome for Referee Whose World Cup Dream Was Cut Short",
+      "severity": "Medium",
+      "source": "Horseed Media",
+      "sourceUrl": "https://horseedmedia.net/somalia-heros-welcome-for-referee-whose-world-cup-dream-was-cut-short/422750/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somalia: Hero’s Welcome for Referee Whose World Cup Dream Was Cut Short"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Jonglei State",
+      "date": "2026-06-10",
+      "type": "Natural Hazard",
+      "description": "Conflict, hunger push South Sudan families to eat leaves to stay alive",
+      "severity": "Medium",
+      "source": "Pachodo",
+      "sourceUrl": "https://pachodo.org/news-from-various-sources/45068-conflict-hunger-push-south-sudan-families-to-eat-leaves-to-stay-alive",
+      "_confidence": 0.75,
+      "_threat_specific": true,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Conflict, hunger push South Sudan families to eat leaves to stay alive"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Juba",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "World Bank calls for action as South Sudan’s cities rapidly expand",
+      "severity": "Medium",
+      "source": "Pachodo",
+      "sourceUrl": "https://pachodo.org/news-from-various-sources/45065-world-bank-calls-for-action-as-south-sudans-cities-rapidly-expand",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "World Bank calls for action as South Sudan’s cities rapidly expand"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Sudan, South Sudan and Uganda should brace for heavy rains between June and August 2026",
+      "severity": "Medium",
+      "source": "Pachodo",
+      "sourceUrl": "https://pachodo.org/news-from-various-sources/45064-sudan-south-sudan-and-uganda-should-brace-for-heavy-rains-between-june-and-august-2026",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Sudan, South Sudan and Uganda should brace for heavy rains between June and August 2026"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Jonglei State",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "South Sudan: Humanitarian Snapshot (May 2026)",
+      "severity": "Medium",
+      "source": "Pachodo",
+      "sourceUrl": "https://pachodo.org/news-from-various-sources/45063-south-sudan-humanitarian-snapshot-may-2026",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "South Sudan: Humanitarian Snapshot (May 2026)"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Council of Ministers Approves 2.34 Trillion Birr Federal Budget Bill",
+      "severity": "Medium",
+      "source": "Ethiopian Monitor",
+      "sourceUrl": "https://ethiopianmonitor.com/2026/06/10/council-of-ministers-approves-2-34-trillion-birr-federal-budget-bill/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "Council of Ministers Approves 2.34 Trillion Birr Federal Budget Bill"
+    },
+    {
+      "country": "Sudan",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Europe’s green fuel rules could leave African airlines paying the bill",
+      "severity": "Medium",
+      "source": "The Africa Report",
+      "sourceUrl": "https://www.theafricareport.com/421683/europes-green-fuel-rules-could-leave-african-airlines-paying-the-bill/",
+      "_confidence": 0.5,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Sudan"
+      ],
+      "_raw_title": "Europe’s green fuel rules could leave African airlines paying the bill"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Warrap",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Twic health facilities roar back to life after closure over funding shortfalls",
+      "severity": "Medium",
+      "source": "Sudans Post",
+      "sourceUrl": "https://www.sudanspost.com/twic-health-facilities-roar-back-to-life-after-closure-over-funding-shortfalls/?utm_source=rss&utm_medium=rss&utm_campaign=twic-health-facilities-roar-back-to-life-after-closure-over-funding-shortfalls",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Twic health facilities roar back to life after closure over funding shortfalls"
+    },
+    {
+      "country": "Sudan",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "South Sudanese activist declines regional event invitation over ‘unequal’ delegate treatment",
+      "severity": "Medium",
+      "source": "Sudans Post",
+      "sourceUrl": "https://www.sudanspost.com/south-sudanese-activist-declines-regional-event-invitation-over-unequal-delegate-treatment/?utm_source=rss&utm_medium=rss&utm_campaign=south-sudanese-activist-declines-regional-event-invitation-over-unequal-delegate-treatment",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Sudan",
+        "South Sudan"
+      ],
+      "_raw_title": "South Sudanese activist declines regional event invitation over ‘unequal’ delegate treatment"
+    },
+    {
+      "country": "Sudan",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Economic Cluster approves SSP 11.3 trillion draft budget",
+      "severity": "Medium",
+      "source": "Sudans Post",
+      "sourceUrl": "https://www.sudanspost.com/economic-cluster-approves-ssp-11-335-trillion-draft-budget/?utm_source=rss&utm_medium=rss&utm_campaign=economic-cluster-approves-ssp-11-335-trillion-draft-budget",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Sudan",
+        "South Sudan"
+      ],
+      "_raw_title": "Economic Cluster approves SSP 11.3 trillion draft budget"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Juba",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Amnesty fears businessman Athorbey could be extradited to South Sudan",
+      "severity": "Medium",
+      "source": "Sudans Post",
+      "sourceUrl": "https://www.sudanspost.com/amnesty-fears-businessman-athorbey-could-be-extradited-to-south-sudan/?utm_source=rss&utm_medium=rss&utm_campaign=amnesty-fears-businessman-athorbey-could-be-extradited-to-south-sudan",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Amnesty fears businessman Athorbey could be extradited to South Sudan"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Juba",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "GPAA, Eastern Equatoria trade claims over Kessengor ownership",
+      "severity": "Medium",
+      "source": "Sudans Post",
+      "sourceUrl": "https://www.sudanspost.com/gpaa-eastern-equatoria-trade-claims-over-kessengor-ownership/?utm_source=rss&utm_medium=rss&utm_campaign=gpaa-eastern-equatoria-trade-claims-over-kessengor-ownership",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "GPAA, Eastern Equatoria trade claims over Kessengor ownership"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Juba",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Man abducted in Nairobi arrives in Juba, held in military detention",
+      "severity": "Medium",
+      "source": "Radio Tamazuj",
+      "sourceUrl": "https://www.radiotamazuj.org/en/news/article/man-abducted-in-nairobi-arrives-in-juba-held-in-military-detention",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Man abducted in Nairobi arrives in Juba, held in military detention"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "NISA Intercepts Massive Explosives Cache In Lower Shabelle",
+      "severity": "Medium",
+      "source": "SONNA Somalia",
+      "sourceUrl": "https://sonna.so/en/nisa-intercepts-massive-explosives-cache-in-lower-shabelle/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "NISA Intercepts Massive Explosives Cache In Lower Shabelle"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Somalia Advances Bilateral Economic and Diplomatic Strategy as New Ambassador Presents Credentials in Pretoria",
+      "severity": "Medium",
+      "source": "SONNA Somalia",
+      "sourceUrl": "https://sonna.so/en/somalia-advances-bilateral-economic-and-diplomatic-strategy-as-new-ambassador-presents-credentials-in-pretoria/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somalia Advances Bilateral Economic and Diplomatic Strategy as New Ambassador Presents Credentials in Pretoria"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Somalia Advances Institutional State-Building with Massive Infrastructure Launch in Jowhar Alongside Global Sports Recognition",
+      "severity": "Medium",
+      "source": "SONNA Somalia",
+      "sourceUrl": "https://sonna.so/en/somalia-advances-institutional-state-building-with-massive-infrastructure-launch-in-jowhar-alongside-global-sports-recognition/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somalia Advances Institutional State-Building with Massive Infrastructure Launch in Jowhar Alongside Global Sports Recognition"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "President Hassan Sheikh Mohamud Inaugurates Critical Infrastructure and Governance Hubs in Jowhar",
+      "severity": "Medium",
+      "source": "SONNA Somalia",
+      "sourceUrl": "https://sonna.so/en/president-hassan-sheikh-mohamud-inaugurates-critical-infrastructure-and-governance-hubs-in-jowhar/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "President Hassan Sheikh Mohamud Inaugurates Critical Infrastructure and Governance Hubs in Jowhar"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Jubbaland oo eedayn u jeedisey Dowaldda Somalia.",
+      "severity": "Medium",
+      "source": "Horseed Media",
+      "sourceUrl": "https://horseedmedia.net/jubbaland-oo-eedayn-u-jeedisey-dowaldda-somalia/422761/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Jubbaland oo eedayn u jeedisey Dowaldda Somalia."
+    },
+    {
+      "country": "Somalia",
+      "region": "Puntland",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Puntland oo maxkamad keentay sarkaal laaluush qaatay & askari ka diidey.",
+      "severity": "Medium",
+      "source": "Horseed Media",
+      "sourceUrl": "https://horseedmedia.net/puntland-oo-maxkamad-keentay-sarkaal-laaluush-qaatay-askari-ka-diidey/422757/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Puntland oo maxkamad keentay sarkaal laaluush qaatay & askari ka diidey."
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Siyaasiyiintii dhisay Aadan Madoobe oo u jihaystay doorashada guddoonka golaha shacabka.",
+      "severity": "Medium",
+      "source": "Horseed Media",
+      "sourceUrl": "https://horseedmedia.net/siyaasiyiintii-dhisay-aadan-madoobe-oo-u-jihaystay-doorashada-guddoonka-golaha-shacabka/422755/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Siyaasiyiintii dhisay Aadan Madoobe oo u jihaystay doorashada guddoonka golaha shacabka."
+    },
+    {
+      "country": "Ethiopia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "የትራምፕ አለም ዋንጫ",
+      "severity": "Medium",
+      "source": "Ethiopia Observer",
+      "sourceUrl": "https://www.ethiopiaobserver.com/2026/06/11/%e1%8b%a8%e1%89%b5%e1%88%ab%e1%88%9d%e1%8d%95-%e1%8a%a0%e1%88%88%e1%88%9d-%e1%8b%8b%e1%8a%95%e1%8c%ab/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "የትራምፕ አለም ዋንጫ"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Kiir says officials joined his private trip expecting cash handouts",
+      "severity": "Medium",
+      "source": "Radio Tamazuj",
+      "sourceUrl": "https://www.radiotamazuj.org/en/news/article/kiir-says-officials-joined-his-private-trip-expecting-cash-handouts",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Kiir says officials joined his private trip expecting cash handouts"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Upper Nile",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Opinion| Malakal Airport and the case for presidential Intervention",
+      "severity": "Medium",
+      "source": "Radio Tamazuj",
+      "sourceUrl": "https://www.radiotamazuj.org/en/news/article/opinion-malakal-airport-and-the-case-for-presidential-intervention",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Opinion| Malakal Airport and the case for presidential Intervention"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "South Sudan launches assessment of unpaid care work to tackle gender inequality",
+      "severity": "Medium",
+      "source": "Radio Tamazuj",
+      "sourceUrl": "https://www.radiotamazuj.org/en/news/article/south-sudan-launches-assessment-of-unpaid-care-work-to-tackle-gender-inequality",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "South Sudan launches assessment of unpaid care work to tackle gender inequality"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Sudan: Eastern Africa: Regional Cash and Voucher Assistance Overview (January - March 2026)",
+      "severity": "Medium",
+      "source": "ReliefWeb",
+      "sourceUrl": "https://reliefweb.int/report/sudan/eastern-africa-regional-cash-and-voucher-assistance-overview-january-march-2026",
+      "_confidence": 0.5,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan",
+        "Somalia",
+        "Ethiopia"
+      ],
+      "_raw_title": "Sudan: Eastern Africa: Regional Cash and Voucher Assistance Overview (January - March 2026)"
+    },
+    {
+      "country": "DRC",
+      "region": "Ituri Province",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "DR Congo: \"We may see more children affected in the days ahead” – UNICEF warns as Ebola spreads in eastern DRC",
+      "severity": "Medium",
+      "source": "ReliefWeb",
+      "sourceUrl": "https://reliefweb.int/report/democratic-republic-congo/we-may-see-more-children-affected-days-ahead-unicef-warns-ebola-spreads-eastern-drc",
+      "_confidence": 0.5,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "DR Congo: \"We may see more children affected in the days ahead” – UNICEF warns as Ebola spreads in eastern DRC"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Speaker Joseph Ngere joins EAC Speakers’ Bureau Meeting in Tanzania",
+      "severity": "Medium",
+      "source": "Eye Radio",
+      "sourceUrl": "https://www.eyeradio.org/speaker-joseph-ngere-joins-eac-speakers-bureau-meeting-in-tanzania/?utm_source=rss&utm_medium=rss&utm_campaign=speaker-joseph-ngere-joins-eac-speakers-bureau-meeting-in-tanzania",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Speaker Joseph Ngere joins EAC Speakers’ Bureau Meeting in Tanzania"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Parliament orders mandatory re-registration of lawmakers’ vehicles",
+      "severity": "Medium",
+      "source": "Eye Radio",
+      "sourceUrl": "https://www.eyeradio.org/parliament-orders-mandatory-re-registration-of-lawmakers-vehicles/?utm_source=rss&utm_medium=rss&utm_campaign=parliament-orders-mandatory-re-registration-of-lawmakers-vehicles",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Parliament orders mandatory re-registration of lawmakers’ vehicles"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Juba",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Police to open new crime reporting centres across Juba",
+      "severity": "Medium",
+      "source": "Eye Radio",
+      "sourceUrl": "https://www.eyeradio.org/police-to-open-new-crime-reporting-centres-across-juba/?utm_source=rss&utm_medium=rss&utm_campaign=police-to-open-new-crime-reporting-centres-across-juba",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Police to open new crime reporting centres across Juba"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Child Labour Day: Poverty and weak law enforcement driving child labour – Adv. Godfrey",
+      "severity": "Medium",
+      "source": "Eye Radio",
+      "sourceUrl": "https://www.eyeradio.org/child-labour-day-poverty-and-weak-law-enforcement-driving-child-labour-adv-godfrey/?utm_source=rss&utm_medium=rss&utm_campaign=child-labour-day-poverty-and-weak-law-enforcement-driving-child-labour-adv-godfrey",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Child Labour Day: Poverty and weak law enforcement driving child labour – Adv. Godfrey"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Warrap",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "“Our Oyee is for medicines, schools and roads, — Youth tells politicians",
+      "severity": "Medium",
+      "source": "Eye Radio",
+      "sourceUrl": "https://www.eyeradio.org/our-oyee-is-for-medicines-schools-and-roads-youth-tells-politicians/?utm_source=rss&utm_medium=rss&utm_campaign=our-oyee-is-for-medicines-schools-and-roads-youth-tells-politicians",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "“Our Oyee is for medicines, schools and roads, — Youth tells politicians"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "South Sudanese entertainer Longonyo graduates from California Film School",
+      "severity": "Medium",
+      "source": "Eye Radio",
+      "sourceUrl": "https://www.eyeradio.org/south-sudanese-entertainer-longonyo-graduates-from-california-film-school/?utm_source=rss&utm_medium=rss&utm_campaign=south-sudanese-entertainer-longonyo-graduates-from-california-film-school",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "South Sudanese entertainer Longonyo graduates from California Film School"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "UK contributes $650,000 to boost South Sudan’s Ebola preparedness",
+      "severity": "Medium",
+      "source": "Eye Radio",
+      "sourceUrl": "https://www.eyeradio.org/uk-contributes-650000-to-boost-south-sudans-ebola-preparedness/?utm_source=rss&utm_medium=rss&utm_campaign=uk-contributes-650000-to-boost-south-sudans-ebola-preparedness",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "UK contributes $650,000 to boost South Sudan’s Ebola preparedness"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "WHO delivers blood storage equipment to Wau, Aweil hospitals",
+      "severity": "Medium",
+      "source": "Eye Radio",
+      "sourceUrl": "https://www.eyeradio.org/who-delivers-blood-storage-equipment-to-wau-aweil-hospitals/?utm_source=rss&utm_medium=rss&utm_campaign=who-delivers-blood-storage-equipment-to-wau-aweil-hospitals",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "WHO delivers blood storage equipment to Wau, Aweil hospitals"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Juba",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Family confirms abducted businessman Athorbey held at Giada barracks",
+      "severity": "Medium",
+      "source": "Eye Radio",
+      "sourceUrl": "https://www.eyeradio.org/family-confirms-abducted-businessman-athorbey-held-at-giada-barracks/?utm_source=rss&utm_medium=rss&utm_campaign=family-confirms-abducted-businessman-athorbey-held-at-giada-barracks",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Family confirms abducted businessman Athorbey held at Giada barracks"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Upper Nile",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Upper Nile governor launches recognition initiative for community contributors",
+      "severity": "Medium",
+      "source": "Eye Radio",
+      "sourceUrl": "https://www.eyeradio.org/upper-nile-governor-launches-recognition-initiative-for-community-contributors/?utm_source=rss&utm_medium=rss&utm_campaign=upper-nile-governor-launches-recognition-initiative-for-community-contributors",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Upper Nile governor launches recognition initiative for community contributors"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Juba",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "South Sudanese whistleblower reported abducted in Kenya",
+      "severity": "Medium",
+      "source": "Pachodo",
+      "sourceUrl": "https://pachodo.org/news-from-various-sources/45073-south-sudanese-whistleblower-reported-abducted-in-kenya",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "South Sudanese whistleblower reported abducted in Kenya"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Two men convicted in UK of trying to send weapons to conflict zones, including South Sudan",
+      "severity": "Medium",
+      "source": "Pachodo",
+      "sourceUrl": "https://pachodo.org/news-from-various-sources/45072-two-men-convicted-in-uk-of-trying-to-send-weapons-to-conflict-zones-including-south-sudan",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Two men convicted in UK of trying to send weapons to conflict zones, including South Sudan"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Civil Unrest",
+      "description": "Vietnamese Field Hospital in South Sudan proactively enhances Ebola response capacity",
+      "severity": "Medium",
+      "source": "Pachodo",
+      "sourceUrl": "https://pachodo.org/news-from-various-sources/45071-vietnamese-field-hospital-in-south-sudan-proactively-enhances-ebola-response-capacity",
+      "_confidence": 0.75,
+      "_threat_specific": true,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Vietnamese Field Hospital in South Sudan proactively enhances Ebola response capacity"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "Tigray Region",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "French journalist Augustine Passilly expelled from Ethiopia",
+      "severity": "Medium",
+      "source": "Ethiopia Observer",
+      "sourceUrl": "https://www.ethiopiaobserver.com/2026/06/12/french-journalist-augustine-passilly-expelled-from-ethiopia/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "French journalist Augustine Passilly expelled from Ethiopia"
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+[
+  {
+    "country": "Somalia",
+    "region": "Mogadishu",
+    "date": "2026-05-30",
+    "type": "Armed Conflict",
+    "description": "Somalia: Laftagaren forces briefly seize Baidoa after gunfight with army",
+    "severity": "Critical",
+    "source": "Somali Guardian",
+    "sourceUrl": "https://www.somaliguardian.com/news/somalia-news/somalia-baidoa-fighting/"
+  },
+  {
+    "country": "Somalia",
+    "region": "Mogadishu",
+    "date": "2026-05-29",
+    "type": "Terrorism",
+    "description": "Al-Shabaab claims Somalia political crisis proves US, EU pull strings in Mogadishu",
+    "severity": "High",
+    "source": "Somali Guardian",
+    "sourceUrl": "https://www.somaliguardian.com/news/somalia-news/al-shabaab-somalia-political-crisis-foreign-rule/"
+  },
+  {
+    "country": "South Sudan",
+    "region": "Unity State",
+    "date": "2026-05-30",
+    "type": "Armed Conflict",
+    "description": "SSPDF soldier accused of killing student in Leer County clash with SPLA-IO",
+    "severity": "High",
+    "source": "Sudans Post",
+    "sourceUrl": "https://www.sudanspost.com/sspdf-soldier-accused-of-killing-student-in-leer-county-clash-with-spla-io/?utm_source=rss&utm_medium=rss&utm_campaign=sspdf-soldier-accused-of-killing-student-in-leer-county-clash-with-spla-io"
+  },
+  {
+    "country": "South Sudan",
+    "region": "Juba",
+    "date": "2026-05-30",
+    "type": "Armed Conflict",
+    "description": "Financial constraints threaten vital UN peacekeeping operations in South Sudan",
+    "severity": "Medium",
+    "source": "Sudans Post",
+    "sourceUrl": "https://www.sudanspost.com/financial-constraints-threaten-un-vital-peacekeeping-operations-in-south-sudan/?utm_source=rss&utm_medium=rss&utm_campaign=financial-constraints-threaten-un-vital-peacekeeping-operations-in-south-sudan"
+  },
+  {
+    "country": "South Sudan",
+    "region": "Unity State",
+    "date": "2026-05-30",
+    "type": "Armed Conflict",
+    "description": "Five suspected goat thieves detained in Leer County",
+    "severity": "Medium",
+    "source": "Sudans Post",
+    "sourceUrl": "https://www.sudanspost.com/five-suspected-goat-thieves-detained-in-leer-county/?utm_source=rss&utm_medium=rss&utm_campaign=five-suspected-goat-thieves-detained-in-leer-county"
+  },
+  {
+    "country": "Somalia",
+    "region": "National",
+    "date": "2026-05-30",
+    "type": "Armed Conflict",
+    "description": "Speaker of the Federal Parliament Receives Comprehensive Security Briefing Following Successful Containment of Militia Disturbance in Baidoa",
+    "severity": "Medium",
+    "source": "SONNA Somalia",
+    "sourceUrl": "https://sonna.so/en/speaker-of-the-federal-parliament-receives-comprehensive-security-briefing-following-successful-containment-of-militia-disturbance-in-baidoa/"
+  },
+  {
+    "country": "Somalia",
+    "region": "Mogadishu",
+    "date": "2026-05-30",
+    "type": "Armed Conflict",
+    "description": "SNA and EUTM-Somalia Launch Second Basic Officers Course at General Dhagabadan Training Centre",
+    "severity": "Medium",
+    "source": "SONNA Somalia",
+    "sourceUrl": "https://sonna.so/en/sna-and-eutm-somalia-launch-second-basic-officers-course-at-general-dhagabadan-training-centre/"
+  },
+  {
+    "country": "Ethiopia",
+    "region": "Tigray Region",
+    "date": "2026-05-31",
+    "type": "Political Instability",
+    "description": "Ethiopia to vote in first elections since Tigray peace deal",
+    "severity": "Medium",
+    "source": "Al Jazeera Africa",
+    "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/5/31/ethiopia-to-vote-in-first-elections-since-tigray-peace-deal?traffic_source=rss"
+  },
+  {
+    "country": "Ethiopia",
+    "region": "National",
+    "date": "2026-05-31",
+    "type": "Armed Conflict",
+    "description": "As Ethiopia votes, its deepening human rights crisis must be addressed",
+    "severity": "Medium",
+    "source": "Al Jazeera Africa",
+    "sourceUrl": "https://www.aljazeera.com/opinions/2026/5/31/as-ethiopia-votes-its-deepening-human-rights-crisis-must-be-addressed?traffic_source=rss"
+  },
+  {
+    "country": "Ethiopia",
+    "region": "National",
+    "date": "2026-05-31",
+    "type": "Armed Conflict",
+    "description": "Ethiopia’s election is about affirming national commitment to democracy",
+    "severity": "Medium",
+    "source": "Al Jazeera Africa",
+    "sourceUrl": "https://www.aljazeera.com/opinions/2026/5/31/ethiopias-election-is-about-affirming-national-commitment-to-democracy-2?traffic_source=rss"
+  },
+  {
+    "country": "South Sudan",
+    "region": "Juba",
+    "date": "2026-05-31",
+    "type": "Political Instability",
+    "description": "South Sudan activist backs renewed U.N. sanctions, urges political transition",
+    "severity": "Medium",
+    "source": "Sudans Post",
+    "sourceUrl": "https://www.sudanspost.com/south-sudan-activist-backs-renewed-u-n-sanctions-urges-political-transition/?utm_source=rss&utm_medium=rss&utm_campaign=south-sudan-activist-backs-renewed-u-n-sanctions-urges-political-transition"
+  },
+  {
+    "country": "South Sudan",
+    "region": "Lakes State",
+    "date": "2026-05-31",
+    "type": "Armed Conflict",
+    "description": "Nurses and midwives call for greater investment in Lakes State healthcare",
+    "severity": "Medium",
+    "source": "Radio Tamazuj",
+    "sourceUrl": "https://www.radiotamazuj.org/en/news/article/nurses-and-midwives-call-for-greater-investment-in-lakes-state-healthcare"
+  },
+  {
+    "country": "South Sudan",
+    "region": "National",
+    "date": "2026-05-31",
+    "type": "Armed Conflict",
+    "description": "UNMISS says budget pressures force base closures despite ongoing violence",
+    "severity": "Medium",
+    "source": "Radio Tamazuj",
+    "sourceUrl": "https://www.radiotamazuj.org/en/news/article/unmiss-says-budget-pressures-force-base-closures-despite-ongoing-violence"
+  },
+  {
+    "country": "South Sudan",
+    "region": "National",
+    "date": "2026-05-31",
+    "type": "Armed Conflict",
+    "description": "Op-Ed | Reimagining financing for maternal, newborn and adolescent health in South Sudan",
+    "severity": "Medium",
+    "source": "Radio Tamazuj",
+    "sourceUrl": "https://www.radiotamazuj.org/en/news/article/op-ed-reimagining-financing-for-maternal-newborn-and-adolescent-health-in-south-sudan"
+  },
+  {
+    "country": "South Sudan",
+    "region": "National",
+    "date": "2026-05-31",
+    "type": "Armed Conflict",
+    "description": "Experts flag environmental, social risks in mining expansion",
+    "severity": "Medium",
+    "source": "Radio Tamazuj",
+    "sourceUrl": "https://www.radiotamazuj.org/en/news/article/experts-flag-environmental-social-risks-in-mining-expansion"
+  },
+  {
+    "country": "Somalia",
+    "region": "National",
+    "date": "2026-05-31",
+    "type": "Political Instability",
+    "description": "Somalia recalls ambassador to Kenya after photo with Israeli envoy triggers diplomatic crisis",
+    "severity": "Medium",
+    "source": "Somali Guardian",
+    "sourceUrl": "https://www.somaliguardian.com/news/somalia-news/somalia-israel-somaliland-diplomatic-crisis-ambassador-kenya/"
+  },
+  {
+    "country": "Somalia",
+    "region": "Mogadishu",
+    "date": "2026-05-31",
+    "type": "Armed Conflict",
+    "description": "Somalia scolds Washington over direct engagement with Somali regions",
+    "severity": "Medium",
+    "source": "Somali Guardian",
+    "sourceUrl": "https://www.somaliguardian.com/news/somalia-news/somalia-rebukes-us-direct-engagement-somali-regions/"
+  },
+  {
+    "country": "Somalia",
+    "region": "Mogadishu",
+    "date": "2026-05-31",
+    "type": "Armed Conflict",
+    "description": "Ministry of Youth, UNDP officially sign dive year partnership agreement in Mogadishu",
+    "severity": "Medium",
+    "source": "SONNA Somalia",
+    "sourceUrl": "https://sonna.so/en/ministry-of-youth-undp-officially-sign-dive-year-partnership-agreement-in-mogadishu/"
+  },
+  {
+    "country": "Somalia",
+    "region": "Mogadishu",
+    "date": "2026-05-31",
+    "type": "Armed Conflict",
+    "description": "Somali Data Protection Authority Launches Registration for Data Controllers and Data Processors",
+    "severity": "Medium",
+    "source": "SONNA Somalia",
+    "sourceUrl": "https://sonna.so/en/somali-data-protection-authority-launches-registration-for-data-controllers-and-data-processors/"
+  },
+  {
+    "country": "Somalia",
+    "region": "Mogadishu",
+    "date": "2026-05-31",
+    "type": "Armed Conflict",
+    "description": "Banadir Education Directorate Announces Grade 8 National Examination Schedule",
+    "severity": "Medium",
+    "source": "SONNA Somalia",
+    "sourceUrl": "https://sonna.so/en/banadir-education-directorate-announces-grade-8-national-examination-schedule/"
+  },
+  {
+    "country": "Somalia",
+    "region": "National",
+    "date": "2026-05-31",
+    "type": "Armed Conflict",
+    "description": "Somalia: MPs accuse Somali military officers of human rights violations",
+    "severity": "Medium",
+    "source": "Horseed Media",
+    "sourceUrl": "https://horseedmedia.net/somalia-mps-accuse-somali-military-officers-of-human-rights-violations/422306/"
+  },
+  {
+    "country": "Somalia",
+    "region": "Puntland",
+    "date": "2026-05-31",
+    "type": "Armed Conflict",
+    "description": "Kusimaha Madaxweynaha Puntland oo Daah-furay Todobaadka Dhaqanka Puntland",
+    "severity": "Medium",
+    "source": "Horseed Media",
+    "sourceUrl": "https://horseedmedia.net/kusimaha-madaxweynaha-puntland-oo-daah-furay-todobaadka-dhaqanka-puntland/422300/"
+  },
+  {
+    "country": "Somalia",
+    "region": "National",
+    "date": "2026-05-31",
+    "type": "Armed Conflict",
+    "description": "Xildhibaano dacwad ka gudbiyey saraakiil katirsan ciidanka Somalia.",
+    "severity": "Medium",
+    "source": "Horseed Media",
+    "sourceUrl": "https://horseedmedia.net/xildhibaano-dacwad-ka-gudbiyey-saraakiil-katirsan-ciidanka-somalia/422292/"
+  },
+  {
+    "country": "Somalia",
+    "region": "Mogadishu",
+    "date": "2026-06-01",
+    "type": "Armed Conflict",
+    "description": "Somalia’s president Hassan Sheikh Mohamud is Somaliland’s biggest independence supporter, former U.S. ambassador Larry Andre says",
+    "severity": "Medium",
+    "source": "Somali Guardian",
+    "sourceUrl": "https://www.somaliguardian.com/news/somalia-news/somalia-president-hassan-sheikh-mohamud-somaliland-independence-supporter-us-ambassador-larry-andre/"
+  },
+  {
+    "country": "Somalia",
+    "region": "National",
+    "date": "2026-06-01",
+    "type": "Armed Conflict",
+    "description": "Minister of Foreign Affairs meets his Egyptian counterpart in Seoul",
+    "severity": "Medium",
+    "source": "SONNA Somalia",
+    "sourceUrl": "https://sonna.so/en/minister-of-foreign-affairs-meets-his-egyptian-counterpart-in-seoul/"
+  },
+  {
+    "country": "Somalia",
+    "region": "National",
+    "date": "2026-06-01",
+    "type": "Armed Conflict",
+    "description": "Somalia Participates in Korea–Africa Ministerial Meeting in Seoul",
+    "severity": "Medium",
+    "source": "SONNA Somalia",
+    "sourceUrl": "https://sonna.so/en/somalia-participates-in-korea-africa-ministerial-meeting-in-seoul-2/"
+  },
+  {
+    "country": "Somalia",
+    "region": "Puntland",
+    "date": "2026-06-01",
+    "type": "Armed Conflict",
+    "description": "Puntland oo digniin ka soo saartay Togagga Buraan iyo Ceeldaahir.",
+    "severity": "Medium",
+    "source": "Horseed Media",
+    "sourceUrl": "https://horseedmedia.net/puntland-oo-digniin-ka-soo-saartay-togagga-buraan-iyo-ceeldaahir/422320/"
+  }
+]

@@ -1,0 +1,11 @@
+# East Africa Security Dashboard — Python dependencies
+# Install with: pip install -r requirements.txt
+# Requires Python >= 3.8
+
+# Core scraping
+feedparser>=6.0.8       # RSS/Atom feed parsing
+requests>=2.31.0        # HTTP client with UA / timeout control
+
+# Optional but recommended (faster HTML tag stripping)
+beautifulsoup4>=4.12.0
+lxml>=5.0.0

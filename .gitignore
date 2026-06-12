@@ -1,0 +1,10 @@
+dashboard_generator/output/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.venv/
+venv/
+.env
+*.egg-info/
+.pytest_cache/
