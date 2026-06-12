@@ -24,8 +24,67 @@ from typing import Optional
 ROOT = Path(__file__).parent
 sys.path.insert(0, str(ROOT))
 
+from collections import defaultdict
+
 from data import COUNTRY_META, SOCIAL_MONITORS
 from scraper import filter_incidents, build_country_profiles
+
+
+# ── per-country sparkline history (last N days) ──────────────────────────────
+
+def _load_history(window_days: int = 14, current_incidents: list = None) -> dict:
+    """
+    Scan past run folders (local output/run_* and repo site/runs/run_*) and
+    return a per-country, per-day count map suitable for sparklines.
+
+    Output: {"Sudan": [c0, c1, ..., c{N-1}], ...} where index 0 is the oldest
+    day in the window and the last index is today.
+    """
+    repo_root = ROOT.parent
+    daily = defaultdict(lambda: defaultdict(int))   # {country: {date: count}}
+
+    # Past runs persisted in the repo (CI) + local output dir (dev)
+    seen_runs = set()
+    for base in (ROOT / "output", repo_root / "site" / "runs"):
+        if not base.exists():
+            continue
+        for run in base.glob("run_*"):
+            if not run.is_dir() or run.name in seen_runs:
+                continue
+            seen_runs.add(run.name)
+            ij = run / "incidents.json"
+            if not ij.exists():
+                continue
+            try:
+                items = json.loads(ij.read_text(encoding="utf-8"))
+            except Exception:
+                continue
+            if not isinstance(items, list):
+                continue
+            for inc in items:
+                c = inc.get("country")
+                d = (inc.get("date") or "")[:10]
+                if c and d:
+                    daily[c][d] += 1
+
+    # Always include the current run's counts (in case it's the very first one)
+    if current_incidents:
+        for inc in current_incidents:
+            c = inc.get("country")
+            d = (inc.get("date") or "")[:10]
+            if c and d:
+                daily[c][d] = max(daily[c][d], 0)  # don't double-count; current run is in output/
+                # use max — past run for the same date may exist if pipeline ran twice today
+
+    # Build the trailing N-day window ending today
+    today = datetime.now(timezone.utc).date()
+    days = [(today - timedelta(days=i)).strftime("%Y-%m-%d")
+            for i in range(window_days - 1, -1, -1)]
+
+    history = {}
+    for country, counts in daily.items():
+        history[country] = [counts.get(d, 0) for d in days]
+    return history
 
 
 # ── helpers ───────────────────────────────────────────────────────────────────
@@ -127,6 +186,16 @@ def generate(
 
     template = template_path.read_text(encoding="utf-8")
 
+    # ── source count (for header subtitle) ─────────────────────────────────
+    try:
+        from scraper.sources import SOURCES as _SRC
+        total_sources = len(_SRC)
+    except Exception:
+        total_sources = 0
+
+    # ── per-country 14-day history (sparklines + chart comparison) ─────────
+    country_history = _load_history(window_days=14, current_incidents=incidents)
+
     html = (
         template
         .replace("__INCIDENTS_DATA__",       json.dumps(incidents,      ensure_ascii=False, separators=(",", ":")))
@@ -134,6 +203,10 @@ def generate(
         .replace("__SOCIAL_MONITORS_DATA__", json.dumps(SOCIAL_MONITORS,ensure_ascii=False, separators=(",", ":")))
         .replace("__GENERATED_DATE__",       report_date)
         .replace("__REPORT_DATE__",          short_date)
+        .replace("__TOTAL_INCIDENTS__",      str(len(incidents)))
+        .replace("__TOTAL_SOURCES__",        str(total_sources))
+        .replace("__TIME_WINDOW_DAYS__",     str(days))
+        .replace("__COUNTRY_HISTORY__",      json.dumps(country_history, ensure_ascii=False, separators=(",", ":")))
     )
 
     out_html = run_dir / f"security_dashboard_{now_utc.strftime('%Y%m%d_%H%M%S')}.html"

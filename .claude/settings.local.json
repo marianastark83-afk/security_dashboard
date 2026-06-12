@@ -62,7 +62,9 @@
       "Bash(echo \"=== X-API-Key header ===\")",
       "Bash(curl -s -w '\\\\nSTATUS:%{http_code}\\\\n' --max-time 10 -H 'X-API-Key: xq_819e00c3eff7571469e942a494ea89487e6eac6da53b1e0f8124c3d5794b39ba' https://xquik.com/api/v1/x/users/martinplaut/tweets?limit=1)",
       "Bash(cd \"/Users/lizethllanos/Library/CloudStorage/GoogleDrive-llanoslizeth@gmail.com/My Drive/security dashboard/dashboard_generator\")",
-      "Bash(export XQUIK_API_KEY=xq_819e00c3eff7571469e942a494ea89487e6eac6da53b1e0f8124c3d5794b39ba)"
+      "Bash(export XQUIK_API_KEY=xq_819e00c3eff7571469e942a494ea89487e6eac6da53b1e0f8124c3d5794b39ba)",
+      "Bash(grep -n \"function renderMatrix\\\\|mx-row.*innerHTML\\\\|mx-row.*\\\\\\\\\\\\${\" \"/Users/lizethllanos/Library/CloudStorage/GoogleDrive-llanoslizeth@gmail.com/My Drive/security dashboard/dashboard_generator/template.html\")",
+      "Bash(python3)"
     ]
   }
 }
