@@ -390,7 +390,10 @@
     .c-matrix{background:var(--surface);border:1px solid var(--border);border-radius:var(--r);box-shadow:var(--sh-sm);overflow:hidden}
     .c-matrix-head{padding:13px 16px 10px;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between}
     .c-matrix-head h3{font-size:14px;font-weight:700;color:var(--text)}
-    .c-matrix-list{display:flex;flex-direction:column}
+    .c-matrix-list{display:flex;flex-direction:column;max-height:340px;overflow-y:auto;scrollbar-width:thin}
+    .c-matrix-list::-webkit-scrollbar{width:8px}
+    .c-matrix-list::-webkit-scrollbar-thumb{background:var(--border);border-radius:4px}
+    .c-matrix-list::-webkit-scrollbar-thumb:hover{background:var(--faint)}
     .mx-row{
       display:flex;align-items:center;gap:10px;padding:11px 16px;
       border-bottom:1px solid var(--border);cursor:pointer;transition:background .12s;
@@ -432,7 +435,11 @@
     .cc-tabs{display:flex;border-bottom:1px solid var(--border);padding:0 16px;overflow-x:auto;gap:0}
     .cc-tab{font-size:13px;font-weight:600;color:var(--muted);padding:9px 11px;border-bottom:2px solid transparent;cursor:pointer;white-space:nowrap;transition:color .15s,border-color .15s;background:none}
     .cc-tab:hover{color:var(--text)}.cc-tab.active{color:var(--accent);border-bottom-color:var(--accent)}
-    .cc-pane{display:none;padding:14px 16px}.cc-pane.active{display:block}
+    .cc-pane{display:none;padding:14px 16px;max-height:420px;overflow-y:auto;scrollbar-width:thin}
+    .cc-pane.active{display:block}
+    .cc-pane::-webkit-scrollbar{width:8px}
+    .cc-pane::-webkit-scrollbar-thumb{background:var(--border);border-radius:4px}
+    .cc-pane::-webkit-scrollbar-thumb:hover{background:var(--faint)}
     .cc-summary{font-size:13px;color:var(--text2);line-height:1.6;margin-bottom:10px}
     .cc-tags{display:flex;gap:5px;flex-wrap:wrap;margin-bottom:10px}
     .cc-tag{font-size:12px;background:var(--s2);color:var(--text2);border:1px solid var(--border);padding:3px 8px;border-radius:var(--rxs)}
