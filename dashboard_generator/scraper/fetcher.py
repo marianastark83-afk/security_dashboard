@@ -132,10 +132,20 @@ def fetch_rss(url: str, source_name: str, timeout: int = 20) -> list:
 
 def fetch_source(source: dict, timeout: int = 20) -> list:
     """
-    Fetch a source config dict (from sources.py), trying the primary RSS URL
-    then the rss_alt fallback if the primary returns nothing.
+    Fetch a source config dict (from sources.py).
+
+    Routing:
+      - If the dict has 'x_handle', fetch via Xquik (X/Twitter API).
+      - Otherwise fetch the primary RSS URL, falling back to rss_alt.
     """
-    name     = source["name"]
+    name = source["name"]
+
+    # X/Twitter source — route through Xquik
+    x_handle = source.get("x_handle", "")
+    if x_handle:
+        from .xquik_fetcher import fetch_xquik_user
+        return fetch_xquik_user(x_handle, name, timeout=timeout)
+
     primary  = source.get("rss", "")
     fallback = source.get("rss_alt", "")
 

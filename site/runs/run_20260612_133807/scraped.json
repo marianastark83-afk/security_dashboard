@@ -1,0 +1,4509 @@
+{
+  "scraped_at": "2026-06-12T13:38:07.786055+00:00",
+  "run": "20260612_133807",
+  "days_back": 3,
+  "min_confidence": 0.5,
+  "total_articles": 1368,
+  "total_raw": 281,
+  "incidents": [
+    {
+      "country": "Sudan",
+      "region": "Darfur",
+      "date": "2026-06-09",
+      "type": "Armed Conflict",
+      "description": "Darfur rights group records 470 deaths in air strikes and drone attacks",
+      "severity": "Critical",
+      "source": "Dabanga Sudan",
+      "sourceUrl": "https://www.dabangasudan.org/en/all-news/article/darfur-rights-group-records-470-deaths-in-air-strikes-and-drone-attacks",
+      "_confidence": 0.8,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Sudan"
+      ],
+      "_raw_title": "Darfur rights group records 470 deaths in air strikes and drone attacks"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "Oromia",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "⚡️Regime forces dispatched on June 2nd to respond to the Orthodox Christian massacre in Aseko Woreda (📍East…",
+      "severity": "Critical",
+      "source": "Amhara War Update",
+      "sourceUrl": "https://x.com/AmharaWarUpdate/status/2064709174827839619",
+      "_confidence": 0.8,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "⚡️Regime forces dispatched on June 2nd to respond to the Orthodox Christian massacre in Aseko Woreda (📍East…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Terrorism",
+      "description": "#ALERT: Heavy fighting has been reported tonight in the Bukriyey neighbourhood of #Baidoa, where residents…",
+      "severity": "Critical",
+      "source": "Baidoa Online",
+      "sourceUrl": "https://x.com/BaidoaOnline/status/2064779609619485113",
+      "_confidence": 0.9,
+      "_threat_specific": true,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "#ALERT: Heavy fighting has been reported tonight in the Bukriyey neighbourhood of #Baidoa, where residents…"
+    },
+    {
+      "country": "Sudan",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Drone Attack",
+      "description": "Deadly Sudan drone strike targets funeral procession",
+      "severity": "Critical",
+      "source": "BBC Sudan",
+      "sourceUrl": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss",
+      "_confidence": 0.9,
+      "_threat_specific": true,
+      "_all_countries": [
+        "Sudan"
+      ],
+      "_raw_title": "Deadly Sudan drone strike targets funeral procession"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "BREAKING: Armed Men Block Key Coastal Highway Connecting Mogadishu to Central Somalia",
+      "severity": "Critical",
+      "source": "Baidoa Online",
+      "sourceUrl": "https://x.com/BaidoaOnline/status/2065000250918531308",
+      "_confidence": 0.8,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "BREAKING: Armed Men Block Key Coastal Highway Connecting Mogadishu to Central Somalia"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "Tigray Region",
+      "date": "2026-06-09",
+      "type": "Armed Conflict",
+      "description": "‘According to the patriarch, also the Archbishop of Axum, the freedom of religion was violated on that day,…",
+      "severity": "High",
+      "source": "Amhara War Update",
+      "sourceUrl": "https://x.com/AmharaWarUpdate/status/2064468384620879935",
+      "_confidence": 0.75,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "‘According to the patriarch, also the Archbishop of Axum, the freedom of religion was violated on that day,…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-09",
+      "type": "Political Instability",
+      "description": "#BREAKING: Representatives of #Somalia's opposition Future Council met diplomats from the EU, US, UK and UN…",
+      "severity": "High",
+      "source": "Somali Guardian (X)",
+      "sourceUrl": "https://x.com/SomaliGuardian/status/2064343888198812151",
+      "_confidence": 0.85,
+      "_threat_specific": true,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "#BREAKING: Representatives of #Somalia's opposition Future Council met diplomats from the EU, US, UK and UN…"
+    },
+    {
+      "country": "Sudan",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "#Sudan | The Embassy of the Republic of the Sudan in London has strongly condemned the knife attack that to…",
+      "severity": "High",
+      "source": "Sudan Tweet",
+      "sourceUrl": "https://x.com/Sudan_tweet/status/2064727670282236291",
+      "_confidence": 0.75,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Sudan"
+      ],
+      "_raw_title": "#Sudan | The Embassy of the Republic of the Sudan in London has strongly condemned the knife attack that to…"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "Amhara Region",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "⚡️Regime forces deploy tanks and artillery to Amhara-inhabited areas of East Wollega Zone (📍Oromia Region,…",
+      "severity": "High",
+      "source": "Amhara War Update",
+      "sourceUrl": "https://x.com/AmharaWarUpdate/status/2064678978963828859",
+      "_confidence": 0.75,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "⚡️Regime forces deploy tanks and artillery to Amhara-inhabited areas of East Wollega Zone (📍Oromia Region,…"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "Amhara Region",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "⚡️Regime forces arrest prominent religious scholar and university dean in Gonder City (📍Central Gonder Zone…",
+      "severity": "High",
+      "source": "Amhara War Update",
+      "sourceUrl": "https://x.com/AmharaWarUpdate/status/2064554549055017387",
+      "_confidence": 0.75,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "⚡️Regime forces arrest prominent religious scholar and university dean in Gonder City (📍Central Gonder Zone…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "BREAKING: Residents of Buulo-Xuubey neighborhood in Wadajir District, Mogadishu, have been ordered to leave…",
+      "severity": "High",
+      "source": "Baidoa Online",
+      "sourceUrl": "https://x.com/BaidoaOnline/status/2064708216559182121",
+      "_confidence": 0.75,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "BREAKING: Residents of Buulo-Xuubey neighborhood in Wadajir District, Mogadishu, have been ordered to leave…"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Warrap",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Cattle raider kills herdsman, steals 20 cattle in Warrap’s Twic County",
+      "severity": "High",
+      "source": "Sudans Post",
+      "sourceUrl": "https://www.sudanspost.com/cattle-raider-kills-herdsman-steals-20-cattle-in-warraps-twic-county/?utm_source=rss&utm_medium=rss&utm_campaign=cattle-raider-kills-herdsman-steals-20-cattle-in-warraps-twic-county",
+      "_confidence": 0.75,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Cattle raider kills herdsman, steals 20 cattle in Warrap’s Twic County"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Jonglei State",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "UK welcomes SSPDF pledge to halt offensive operations in Jonglei",
+      "severity": "High",
+      "source": "Sudans Post",
+      "sourceUrl": "https://www.sudanspost.com/uk-welcomes-sspdf-pledge-to-halt-offensive-operations-in-jonglei/?utm_source=rss&utm_medium=rss&utm_campaign=uk-welcomes-sspdf-pledge-to-halt-offensive-operations-in-jonglei",
+      "_confidence": 0.75,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "UK welcomes SSPDF pledge to halt offensive operations in Jonglei"
+    },
+    {
+      "country": "Sudan",
+      "region": "North Kordofan",
+      "date": "2026-06-11",
+      "type": "Drone Attack",
+      "description": "#Sudan | Images show the scale of destruction caused to several civilian homes in the city of El Obeid, Nor…",
+      "severity": "High",
+      "source": "Sudan Tweet",
+      "sourceUrl": "https://x.com/Sudan_tweet/status/2064982615694651481",
+      "_confidence": 0.85,
+      "_threat_specific": true,
+      "_all_countries": [
+        "Sudan"
+      ],
+      "_raw_title": "#Sudan | Images show the scale of destruction caused to several civilian homes in the city of El Obeid, Nor…"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "Amhara Region",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "⚡️Fano forces regained control of the Ethiopia–Sudan highway on June 2nd after offensive operations in Afti…",
+      "severity": "High",
+      "source": "Amhara War Update",
+      "sourceUrl": "https://x.com/AmharaWarUpdate/status/2065041366292312135",
+      "_confidence": 0.75,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "⚡️Fano forces regained control of the Ethiopia–Sudan highway on June 2nd after offensive operations in Afti…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Mogadishu escapes another night of bloodshed as government troops pull back from opposition area",
+      "severity": "High",
+      "source": "Somali Guardian",
+      "sourceUrl": "https://www.somaliguardian.com/news/somalia-news/mogadishu-averts-crisis-government-troops-withdraw/",
+      "_confidence": 0.75,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Mogadishu escapes another night of bloodshed as government troops pull back from opposition area"
+    },
+    {
+      "country": "Sudan",
+      "region": "North Kordofan",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Dozens killed in drone attacks across Sudan as El Obeid toll reaches 23",
+      "severity": "High",
+      "source": "Dabanga Sudan",
+      "sourceUrl": "https://www.dabangasudan.org/en/all-news/article/dozens-killed-in-drone-attacks-across-sudan-as-el-obeid-toll-reaches-23",
+      "_confidence": 0.75,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Sudan"
+      ],
+      "_raw_title": "Dozens killed in drone attacks across Sudan as El Obeid toll reaches 23"
+    },
+    {
+      "country": "Sudan",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Sudan embassy condemns Belfast stabbing as fears grow among migrants",
+      "severity": "High",
+      "source": "Dabanga Sudan",
+      "sourceUrl": "https://www.dabangasudan.org/en/all-news/article/sudan-embassy-condemns-belfast-stabbing-as-fears-grow-among-migrants",
+      "_confidence": 0.75,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Sudan"
+      ],
+      "_raw_title": "Sudan embassy condemns Belfast stabbing as fears grow among migrants"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "#ALERT: Mogadishu Residents Flee Amid Tensions in Abdiaziz District",
+      "severity": "High",
+      "source": "Baidoa Online",
+      "sourceUrl": "https://x.com/BaidoaOnline/status/2064997776224563342",
+      "_confidence": 0.75,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "#ALERT: Mogadishu Residents Flee Amid Tensions in Abdiaziz District"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-11",
+      "type": "Civil Unrest",
+      "description": "#BREAKING: Government Forces Use Live Fire as Protests Erupt in Mogadishu’s Abdiaziz District",
+      "severity": "High",
+      "source": "Baidoa Online",
+      "sourceUrl": "https://x.com/BaidoaOnline/status/2064947027738243175",
+      "_confidence": 0.85,
+      "_threat_specific": true,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "#BREAKING: Government Forces Use Live Fire as Protests Erupt in Mogadishu’s Abdiaziz District"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-11",
+      "type": "Civil Unrest",
+      "description": "#BREAKING: Shocking footage from Mogadishu’s Abdiaziz district appears to show #Somalia’s security forces f…",
+      "severity": "High",
+      "source": "Somali Guardian (X)",
+      "sourceUrl": "https://x.com/SomaliGuardian/status/2065000905787781369",
+      "_confidence": 0.85,
+      "_threat_specific": true,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "#BREAKING: Shocking footage from Mogadishu’s Abdiaziz district appears to show #Somalia’s security forces f…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "#UPDATE: Somalia's intelligence chief, Mahad Mohamed Salad, met with former President Farmaajo, and opposit…",
+      "severity": "High",
+      "source": "Garowe Online",
+      "sourceUrl": "https://x.com/GaroweOnline/status/2065114735108837666",
+      "_confidence": 0.75,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "#UPDATE: Somalia's intelligence chief, Mahad Mohamed Salad, met with former President Farmaajo, and opposit…"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "Tigray Region",
+      "date": "2026-06-12",
+      "type": "Political Instability",
+      "description": "Ethiopia: What we know about warnings of a TPLF offensive ‘in the coming days’",
+      "severity": "High",
+      "source": "The Africa Report",
+      "sourceUrl": "https://www.theafricareport.com/421798/ethiopia-what-we-know-about-warnings-of-a-tplf-offensive-in-the-coming-days-as-obasanjo-returns-to-tigray/",
+      "_confidence": 0.7,
+      "_threat_specific": true,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "Ethiopia: What we know about warnings of a TPLF offensive ‘in the coming days’"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "Amhara Region",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "⚡️At least 11 regime soldiers killed and 17+ critically injured in June 5th clashes after Fano targeted a r…",
+      "severity": "High",
+      "source": "Amhara War Update",
+      "sourceUrl": "https://x.com/AmharaWarUpdate/status/2065403752207831115",
+      "_confidence": 0.75,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "⚡️At least 11 regime soldiers killed and 17+ critically injured in June 5th clashes after Fano targeted a r…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "#President Hassan Sheikh spoke forcefully about the clashes between the opposition and the #government in #…",
+      "severity": "High",
+      "source": "SMS Somali TV",
+      "sourceUrl": "https://x.com/SMSSomaliTV1/status/2065332126254301226",
+      "_confidence": 0.75,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "#President Hassan Sheikh spoke forcefully about the clashes between the opposition and the #government in #…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Tensions Rise After Clashes in Mogadishu https://t.co/ABfZAb8NAj #AlAfricaNews #Somalia",
+      "severity": "High",
+      "source": "Eye on Somalia",
+      "sourceUrl": "https://x.com/Eye_on_Somalia/status/2065299893091205368",
+      "_confidence": 0.75,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Tensions Rise After Clashes in Mogadishu https://t.co/ABfZAb8NAj #AlAfricaNews #Somalia"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Terrorism",
+      "description": "Kenyan Forces Repel Suspected Al-Shabaab Night Attack on Military Base Near #Somalia Border",
+      "severity": "High",
+      "source": "Garowe Online",
+      "sourceUrl": "https://x.com/GaroweOnline/status/2065405466084069759",
+      "_confidence": 0.85,
+      "_threat_specific": true,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Kenyan Forces Repel Suspected Al-Shabaab Night Attack on Military Base Near #Somalia Border"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-09",
+      "type": "Armed Conflict",
+      "description": "According to Nova Travelers we should “make South Sudanese dishes international cuisine.” https://t.co/3xsT…",
+      "severity": "Medium",
+      "source": "SSG Global",
+      "sourceUrl": "https://x.com/SSGglobal/status/2064449169025302695",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "According to Nova Travelers we should “make South Sudanese dishes international cuisine.” https://t.co/3xsT…"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "Amhara Region",
+      "date": "2026-06-09",
+      "type": "Armed Conflict",
+      "description": "⚡️AFNM announced the graduation of a new commando force in Shewa Subregion (📍Amhara Region, Ethiopia) on Ju…",
+      "severity": "Medium",
+      "source": "Amhara War Update",
+      "sourceUrl": "https://x.com/AmharaWarUpdate/status/2064361885600727163",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "⚡️AFNM announced the graduation of a new commando force in Shewa Subregion (📍Amhara Region, Ethiopia) on Ju…"
+    },
+    {
+      "country": "Sudan",
+      "region": "National",
+      "date": "2026-06-09",
+      "type": "Armed Conflict",
+      "description": "Int’l group backs civilian led Sudan dialogue within six months",
+      "severity": "Medium",
+      "source": "Dabanga Sudan",
+      "sourceUrl": "https://www.dabangasudan.org/en/all-news/article/intl-group-backs-civilian-led-sudan-dialogue-within-six-months",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Sudan"
+      ],
+      "_raw_title": "Int’l group backs civilian led Sudan dialogue within six months"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "National",
+      "date": "2026-06-09",
+      "type": "Armed Conflict",
+      "description": "Can Food System Transformation Unlock Ethiopia’s Pulses and Oilseeds Potential?",
+      "severity": "Medium",
+      "source": "The Reporter ET (X)",
+      "sourceUrl": "https://x.com/TheReporterET/status/2064361942613913998",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "Can Food System Transformation Unlock Ethiopia’s Pulses and Oilseeds Potential?"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "National",
+      "date": "2026-06-09",
+      "type": "Armed Conflict",
+      "description": "ECMA Licenses First Foreign Investment Bank in Ethiopia",
+      "severity": "Medium",
+      "source": "The Reporter ET (X)",
+      "sourceUrl": "https://x.com/TheReporterET/status/2064359596827738470",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "ECMA Licenses First Foreign Investment Bank in Ethiopia"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-09",
+      "type": "Political Instability",
+      "description": "🚨 #BREAKING: #Turkey has appointed veteran diplomat Ferhat Alkan as its new ambassador to #Somalia.",
+      "severity": "Medium",
+      "source": "Somali Guardian (X)",
+      "sourceUrl": "https://x.com/SomaliGuardian/status/2064372744150491522",
+      "_confidence": 0.75,
+      "_threat_specific": true,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "🚨 #BREAKING: #Turkey has appointed veteran diplomat Ferhat Alkan as its new ambassador to #Somalia."
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-09",
+      "type": "Armed Conflict",
+      "description": "Somali Region President Opens $218 Million Birr Vocational College in Awbare. #aware #SomaliRegion #Ethiopi…",
+      "severity": "Medium",
+      "source": "Horn Post News",
+      "sourceUrl": "https://x.com/Hornpostnews/status/2064406369613095383",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somali Region President Opens $218 Million Birr Vocational College in Awbare. #aware #SomaliRegion #Ethiopi…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-09",
+      "type": "Armed Conflict",
+      "description": "U.S. Explains Visa Denial for Somali Referee Omar Artan Ahead of FIFA World Cup Assignment. #OmarArtan #Som…",
+      "severity": "Medium",
+      "source": "Horn Post News",
+      "sourceUrl": "https://x.com/Hornpostnews/status/2064347056735666589",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "U.S. Explains Visa Denial for Somali Referee Omar Artan Ahead of FIFA World Cup Assignment. #OmarArtan #Som…"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-09",
+      "type": "Armed Conflict",
+      "description": "Kinshasa et Prague : avancées dans la coopération défense et numérique; la RDC diversifie ses partenariats…",
+      "severity": "Medium",
+      "source": "The Times Plus",
+      "sourceUrl": "https://x.com/thetimesplus/status/2064357448886980704",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "Kinshasa et Prague : avancées dans la coopération défense et numérique; la RDC diversifie ses partenariats…"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-09",
+      "type": "Armed Conflict",
+      "description": "Ville morte du 3 juin : Kinshasa a ralenti, l’opposition est divisée sur le bilan, le pouvoir minimise http…",
+      "severity": "Medium",
+      "source": "The Times Plus",
+      "sourceUrl": "https://x.com/thetimesplus/status/2064357100709380249",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "Ville morte du 3 juin : Kinshasa a ralenti, l’opposition est divisée sur le bilan, le pouvoir minimise http…"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-09",
+      "type": "Armed Conflict",
+      "description": "🇨🇩 RDC : La proposition de loi sur l’organisation du référendum a été adoptée à l’Assemblée nationale.",
+      "severity": "Medium",
+      "source": "CACAP News",
+      "sourceUrl": "https://x.com/CACAP_NEWS/status/2064398176031756524",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "🇨🇩 RDC : La proposition de loi sur l’organisation du référendum a été adoptée à l’Assemblée nationale."
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-09",
+      "type": "Armed Conflict",
+      "description": "#RDC: « La ville de Kinshasa est sale, pue, étouffe. Vous avez honte de dire à votre hôte que vous êtes dan…",
+      "severity": "Medium",
+      "source": "CACAP News",
+      "sourceUrl": "https://x.com/CACAP_NEWS/status/2064377914628415559",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "#RDC: « La ville de Kinshasa est sale, pue, étouffe. Vous avez honte de dire à votre hôte que vous êtes dan…"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-09",
+      "type": "Armed Conflict",
+      "description": "#RDC: Tshisekedi a réuni la nouvelle Taskforce chargée de l’assainissement de la ville de Kinshasa. Il a do…",
+      "severity": "Medium",
+      "source": "CACAP News",
+      "sourceUrl": "https://x.com/CACAP_NEWS/status/2064364817276620810",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "#RDC: Tshisekedi a réuni la nouvelle Taskforce chargée de l’assainissement de la ville de Kinshasa. Il a do…"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-09",
+      "type": "Armed Conflict",
+      "description": "🇨🇩🎨 Une sculpture à l’effigie de Fally Ipupa a été réalisée à Kinshasa par Jupson Tshiluka pour immortalise…",
+      "severity": "Medium",
+      "source": "CACAP News",
+      "sourceUrl": "https://x.com/CACAP_NEWS/status/2064364693464977818",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "🇨🇩🎨 Une sculpture à l’effigie de Fally Ipupa a été réalisée à Kinshasa par Jupson Tshiluka pour immortalise…"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "National",
+      "date": "2026-06-09",
+      "type": "Armed Conflict",
+      "description": "The Chairperson of the African Union (AU) Commission, Mahmoud Ali Youssouf, this evening received H.E. Gedi…",
+      "severity": "Medium",
+      "source": "African Union",
+      "sourceUrl": "https://x.com/_AfricanUnion/status/2064380887718830587",
+      "_confidence": 0.5,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "The Chairperson of the African Union (AU) Commission, Mahmoud Ali Youssouf, this evening received H.E. Gedi…"
+    },
+    {
+      "country": "DRC",
+      "region": "National",
+      "date": "2026-06-09",
+      "type": "Armed Conflict",
+      "description": "The Chairperson of the African Union Commission, H.E. Mahmoud Ali Youssouf, met with Mr. James Swan, Specia…",
+      "severity": "Medium",
+      "source": "African Union",
+      "sourceUrl": "https://x.com/_AfricanUnion/status/2064379143677006077",
+      "_confidence": 0.5,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "The Chairperson of the African Union Commission, H.E. Mahmoud Ali Youssouf, met with Mr. James Swan, Specia…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-09",
+      "type": "Armed Conflict",
+      "description": "If Africa's top referee is inadmissible in America, who qualifies? Many are calling it racism.",
+      "severity": "Medium",
+      "source": "Larry Madowo",
+      "sourceUrl": "https://x.com/LarryMadowo/status/2064375162900816343",
+      "_confidence": 0.5,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "If Africa's top referee is inadmissible in America, who qualifies? Many are calling it racism."
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "“SPLM diehard Sgt. Agel Ring Machar Says Hon. Minister of Information, Ateny Wek Ateny, Is Related to Him —…",
+      "severity": "Medium",
+      "source": "SSG Global",
+      "sourceUrl": "https://x.com/SSGglobal/status/2064774688304431358",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "“SPLM diehard Sgt. Agel Ring Machar Says Hon. Minister of Information, Ateny Wek Ateny, Is Related to Him —…"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "“President Kiir has reaffirmed that South Sudan's general elections will be conducted in December 2026, str…",
+      "severity": "Medium",
+      "source": "SSG Global",
+      "sourceUrl": "https://x.com/SSGglobal/status/2064552687396639020",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "“President Kiir has reaffirmed that South Sudan's general elections will be conducted in December 2026, str…"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "“SPLM Diehard Sgt Agel Ring Machar Travelled All the Way from Twic to Aweil to Join the Public and Received…",
+      "severity": "Medium",
+      "source": "SSG Global",
+      "sourceUrl": "https://x.com/SSGglobal/status/2064550789616697575",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "“SPLM Diehard Sgt Agel Ring Machar Travelled All the Way from Twic to Aweil to Join the Public and Received…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Terrorism",
+      "description": "Al-Shabaab reacts to U.S. entry denial of Somali World Cup referee Omar Artan",
+      "severity": "Medium",
+      "source": "Somali Guardian",
+      "sourceUrl": "https://www.somaliguardian.com/news/somalia-news/somali-al-shabaab-omar-artan-us-entry-denial/",
+      "_confidence": 0.75,
+      "_threat_specific": true,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Al-Shabaab reacts to U.S. entry denial of Somali World Cup referee Omar Artan"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Somalia parliament speaker Adan Madobe elected Southwest state president",
+      "severity": "Medium",
+      "source": "Somali Guardian",
+      "sourceUrl": "https://www.somaliguardian.com/news/somalia-news/somalia-parliament-speaker-adan-madobe-elected-southwest-president/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somalia parliament speaker Adan Madobe elected Southwest state president"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Somali referee Omar Artan returns home to hero’s welcome after U.S. entry denial ends historic FIFA World Cup dream",
+      "severity": "Medium",
+      "source": "Somali Guardian",
+      "sourceUrl": "https://www.somaliguardian.com/news/somalia-news/omar-artan/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somali referee Omar Artan returns home to hero’s welcome after U.S. entry denial ends historic FIFA World Cup dream"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "National Communications Authority and National IPv6 Center Hold Workshop on IPv6 Implementation",
+      "severity": "Medium",
+      "source": "SONNA Somalia",
+      "sourceUrl": "https://sonna.so/en/national-communications-authority-and-national-ipv6-center-hold-workshop-on-ipv6-implementation/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "National Communications Authority and National IPv6 Center Hold Workshop on IPv6 Implementation"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Somalia Voices Concern Over U.S. Travel Denial for Award-Winning Referee Omar Artan",
+      "severity": "Medium",
+      "source": "SONNA Somalia",
+      "sourceUrl": "https://sonna.so/en/somalia-voices-concern-over-u-s-travel-denial-for-award-winning-referee-omar-artan/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somalia Voices Concern Over U.S. Travel Denial for Award-Winning Referee Omar Artan"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Prime Minister Hamza Congratulates New Southwest State Leader",
+      "severity": "Medium",
+      "source": "SONNA Somalia",
+      "sourceUrl": "https://sonna.so/en/prime-minister-hamza-congratulates-new-southwest-state-leader/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Prime Minister Hamza Congratulates New Southwest State Leader"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Somalia, EU Strengthen Cooperation on Media and Countering Misinformation",
+      "severity": "Medium",
+      "source": "SONNA Somalia",
+      "sourceUrl": "https://sonna.so/en/somalia-eu-strengthen-cooperation-on-media-and-countering-misinformation/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somalia, EU Strengthen Cooperation on Media and Countering Misinformation"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Somalia: Hero’s Welcome for Referee Whose World Cup Dream Was Cut Short",
+      "severity": "Medium",
+      "source": "Horseed Media",
+      "sourceUrl": "https://horseedmedia.net/somalia-heros-welcome-for-referee-whose-world-cup-dream-was-cut-short/422750/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somalia: Hero’s Welcome for Referee Whose World Cup Dream Was Cut Short"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Jonglei State",
+      "date": "2026-06-10",
+      "type": "Natural Hazard",
+      "description": "Conflict, hunger push South Sudan families to eat leaves to stay alive",
+      "severity": "Medium",
+      "source": "Pachodo",
+      "sourceUrl": "https://pachodo.org/news-from-various-sources/45068-conflict-hunger-push-south-sudan-families-to-eat-leaves-to-stay-alive",
+      "_confidence": 0.75,
+      "_threat_specific": true,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Conflict, hunger push South Sudan families to eat leaves to stay alive"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Juba",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "World Bank calls for action as South Sudan’s cities rapidly expand",
+      "severity": "Medium",
+      "source": "Pachodo",
+      "sourceUrl": "https://pachodo.org/news-from-various-sources/45065-world-bank-calls-for-action-as-south-sudans-cities-rapidly-expand",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "World Bank calls for action as South Sudan’s cities rapidly expand"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Sudan, South Sudan and Uganda should brace for heavy rains between June and August 2026",
+      "severity": "Medium",
+      "source": "Pachodo",
+      "sourceUrl": "https://pachodo.org/news-from-various-sources/45064-sudan-south-sudan-and-uganda-should-brace-for-heavy-rains-between-june-and-august-2026",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Sudan, South Sudan and Uganda should brace for heavy rains between June and August 2026"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Jonglei State",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "South Sudan: Humanitarian Snapshot (May 2026)",
+      "severity": "Medium",
+      "source": "Pachodo",
+      "sourceUrl": "https://pachodo.org/news-from-various-sources/45063-south-sudan-humanitarian-snapshot-may-2026",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "South Sudan: Humanitarian Snapshot (May 2026)"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Council of Ministers Approves 2.34 Trillion Birr Federal Budget Bill",
+      "severity": "Medium",
+      "source": "Ethiopian Monitor",
+      "sourceUrl": "https://ethiopianmonitor.com/2026/06/10/council-of-ministers-approves-2-34-trillion-birr-federal-budget-bill/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "Council of Ministers Approves 2.34 Trillion Birr Federal Budget Bill"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "RT @ThomasVLinge: In a disturbing development the TPLF seems to have taken a couple pages from Isaias Afwer…",
+      "severity": "Medium",
+      "source": "Martin Plaut",
+      "sourceUrl": "https://x.com/martinplaut/status/2064736376776466924",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "RT @ThomasVLinge: In a disturbing development the TPLF seems to have taken a couple pages from Isaias Afwer…"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "RT @mikedeangelo25: Disruptions to Ethiopia's June 1 elections display the stark divisions between the fede…",
+      "severity": "Medium",
+      "source": "Martin Plaut",
+      "sourceUrl": "https://x.com/martinplaut/status/2064726792523407773",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "RT @mikedeangelo25: Disruptions to Ethiopia's June 1 elections display the stark divisions between the fede…"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Minister of Culture Sarah Nyanath says South Sudan will next month submit the Boma-Badingilo Migratory Land…",
+      "severity": "Medium",
+      "source": "Eye Radio Juba",
+      "sourceUrl": "https://x.com/EyeRadioJuba/status/2064707754636251402",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Minister of Culture Sarah Nyanath says South Sudan will next month submit the Boma-Badingilo Migratory Land…"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Jonglei State",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "A civil society leader has called on the Jonglei State government to urgently intervene in rising tensions…",
+      "severity": "Medium",
+      "source": "Eye Radio Juba",
+      "sourceUrl": "https://x.com/EyeRadioJuba/status/2064699682681425946",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "A civil society leader has called on the Jonglei State government to urgently intervene in rising tensions…"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "As a South Sudanese citizen and a member of the Tennet community, one of the country’s smaller ethnic group…",
+      "severity": "Medium",
+      "source": "Eye Radio Juba",
+      "sourceUrl": "https://x.com/EyeRadioJuba/status/2064695449303310526",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "As a South Sudanese citizen and a member of the Tennet community, one of the country’s smaller ethnic group…"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Juba",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "The Chairperson of the Central Equatoria State Chamber of Commerce has criticized a sharp increase in local…",
+      "severity": "Medium",
+      "source": "Eye Radio Juba",
+      "sourceUrl": "https://x.com/EyeRadioJuba/status/2064670737495990668",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "The Chairperson of the Central Equatoria State Chamber of Commerce has criticized a sharp increase in local…"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "A tale of two countries: Why the Djibouti-Ethiopia corridor is a shared economic lifeline",
+      "severity": "Medium",
+      "source": "The Reporter ET (X)",
+      "sourceUrl": "https://x.com/TheReporterET/status/2064724591012929945",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "A tale of two countries: Why the Djibouti-Ethiopia corridor is a shared economic lifeline"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Ethiopia Elections 2026: A Triumph of Civic Participation Over Skepticism",
+      "severity": "Medium",
+      "source": "The Reporter ET (X)",
+      "sourceUrl": "https://x.com/TheReporterET/status/2064679262129418384",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "Ethiopia Elections 2026: A Triumph of Civic Participation Over Skepticism"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "The Ethiopian biodiversity institute at 50: celebrating a legacy and confronting new realities",
+      "severity": "Medium",
+      "source": "The Reporter ET (X)",
+      "sourceUrl": "https://x.com/TheReporterET/status/2064634013810044956",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "The Ethiopian biodiversity institute at 50: celebrating a legacy and confronting new realities"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "AI-Generated Works and the Future of Copyright Law in Ethiopia",
+      "severity": "Medium",
+      "source": "The Reporter ET (X)",
+      "sourceUrl": "https://x.com/TheReporterET/status/2064588535181509018",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "AI-Generated Works and the Future of Copyright Law in Ethiopia"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "#UPDATE: Security forces previously deployed around the homes of opposition figures have been withdrawn.",
+      "severity": "Medium",
+      "source": "Baidoa Online",
+      "sourceUrl": "https://x.com/BaidoaOnline/status/2064806061740343762",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "#UPDATE: Security forces previously deployed around the homes of opposition figures have been withdrawn."
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "#ALERT: Former Somali Finance Minister Mohamed Fargeeti, now aligned with the opposition, has criticised th…",
+      "severity": "Medium",
+      "source": "Baidoa Online",
+      "sourceUrl": "https://x.com/BaidoaOnline/status/2064782033508077597",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "#ALERT: Former Somali Finance Minister Mohamed Fargeeti, now aligned with the opposition, has criticised th…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Mogadishu Outage Update: Service Providers Explain Planned Disruption, But Questions Remain https://t.co/HA…",
+      "severity": "Medium",
+      "source": "Baidoa Online",
+      "sourceUrl": "https://x.com/BaidoaOnline/status/2064773650033643668",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Mogadishu Outage Update: Service Providers Explain Planned Disruption, But Questions Remain https://t.co/HA…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Current situation outside Hotel Al Jazeera in Mogadishu. This photo was taken just a short while ago https:…",
+      "severity": "Medium",
+      "source": "Baidoa Online",
+      "sourceUrl": "https://x.com/BaidoaOnline/status/2064754295518466323",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Current situation outside Hotel Al Jazeera in Mogadishu. This photo was taken just a short while ago https:…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Residents Flee Wadajir as Security Forces Deploy Near Opposition-Linked Areas in Mogadishu https://t.co/sf3…",
+      "severity": "Medium",
+      "source": "Baidoa Online",
+      "sourceUrl": "https://x.com/BaidoaOnline/status/2064715613214318919",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Residents Flee Wadajir as Security Forces Deploy Near Opposition-Linked Areas in Mogadishu https://t.co/sf3…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "BREAKING: A disturbing situation is unfolding in Wadajir District, Mogadishu, as residents in areas near Ce…",
+      "severity": "Medium",
+      "source": "Baidoa Online",
+      "sourceUrl": "https://x.com/BaidoaOnline/status/2064711125493531038",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "BREAKING: A disturbing situation is unfolding in Wadajir District, Mogadishu, as residents in areas near Ce…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "We have established multiple news correspondents across Mogadishu to ensure real-time coverage of unfolding…",
+      "severity": "Medium",
+      "source": "Baidoa Online",
+      "sourceUrl": "https://x.com/BaidoaOnline/status/2064709724864422247",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "We have established multiple news correspondents across Mogadishu to ensure real-time coverage of unfolding…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Terrorism",
+      "description": "🚨 BREAKING: Al-Shabaab has reacted to the U.S. decision to deny entry to Somali World Cup referee Omar Arta…",
+      "severity": "Medium",
+      "source": "Somali Guardian (X)",
+      "sourceUrl": "https://x.com/SomaliGuardian/status/2064796604394025208",
+      "_confidence": 0.75,
+      "_threat_specific": true,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "🚨 BREAKING: Al-Shabaab has reacted to the U.S. decision to deny entry to Somali World Cup referee Omar Arta…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "🚨 JUST IN: President Hassan Sheikh Mohamud has personally welcomed FIFA referee Omar Artan to the President…",
+      "severity": "Medium",
+      "source": "Somali Guardian (X)",
+      "sourceUrl": "https://x.com/SomaliGuardian/status/2064685647781077416",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "🚨 JUST IN: President Hassan Sheikh Mohamud has personally welcomed FIFA referee Omar Artan to the President…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Political Instability",
+      "description": "🚨 #BREAKING: Heavily armed Somali government troops have surrounded the residences of opposition leaders Ha…",
+      "severity": "Medium",
+      "source": "Somali Guardian (X)",
+      "sourceUrl": "https://x.com/SomaliGuardian/status/2064678694761767166",
+      "_confidence": 0.75,
+      "_threat_specific": true,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "🚨 #BREAKING: Heavily armed Somali government troops have surrounded the residences of opposition leaders Ha…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "🇸🇴 \"I will continue loving my country and my passport.\"",
+      "severity": "Medium",
+      "source": "Somali Guardian (X)",
+      "sourceUrl": "https://x.com/SomaliGuardian/status/2064635172943720563",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "🇸🇴 \"I will continue loving my country and my passport.\""
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "🚨 BREAKING: Somali referee Omar Artan arrived in Mogadishu to a hero’s welcome after being denied entry int…",
+      "severity": "Medium",
+      "source": "Somali Guardian (X)",
+      "sourceUrl": "https://x.com/SomaliGuardian/status/2064614713481204180",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "🚨 BREAKING: Somali referee Omar Artan arrived in Mogadishu to a hero’s welcome after being denied entry int…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "US Cites Alleged Extremist Links in Deportation of Somali Referee After Reviewing Social Media Activity. #v…",
+      "severity": "Medium",
+      "source": "Horn Post News",
+      "sourceUrl": "https://x.com/Hornpostnews/status/2064799082619809890",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "US Cites Alleged Extremist Links in Deportation of Somali Referee After Reviewing Social Media Activity. #v…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Somalia: Hero’s Welcome for Referee Whose World Cup Dream Was Cut Short https://t.co/R53RwOIcM8 #Horseed #S…",
+      "severity": "Medium",
+      "source": "Eye on Somalia",
+      "sourceUrl": "https://x.com/Eye_on_Somalia/status/2064782553287192941",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somalia: Hero’s Welcome for Referee Whose World Cup Dream Was Cut Short https://t.co/R53RwOIcM8 #Horseed #S…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "The Guardian view on the men’s World Cup: the build-up was unedifying, but now the football takes over | Ed…",
+      "severity": "Medium",
+      "source": "Eye on Somalia",
+      "sourceUrl": "https://x.com/Eye_on_Somalia/status/2064765954119323887",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "The Guardian view on the men’s World Cup: the build-up was unedifying, but now the football takes over | Ed…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Somali PM Hails Referee Omar Artan As Symbol of Hope After World Cup Setback https://t.co/rns0F1qOet #AlAfr…",
+      "severity": "Medium",
+      "source": "Eye on Somalia",
+      "sourceUrl": "https://x.com/Eye_on_Somalia/status/2064755120399856022",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somali PM Hails Referee Omar Artan As Symbol of Hope After World Cup Setback https://t.co/rns0F1qOet #AlAfr…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Somalia's Parliament Speaker Wins South West State Presidential Election https://t.co/zRIrupqGuO #AlAfricaN…",
+      "severity": "Medium",
+      "source": "Eye on Somalia",
+      "sourceUrl": "https://x.com/Eye_on_Somalia/status/2064754534526955719",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somalia's Parliament Speaker Wins South West State Presidential Election https://t.co/zRIrupqGuO #AlAfricaN…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Talks to Free Egyptian Sailors Held By Somali Pirates Collapse Over Ransom Dispute https://t.co/Vk5mOLwnYU…",
+      "severity": "Medium",
+      "source": "Eye on Somalia",
+      "sourceUrl": "https://x.com/Eye_on_Somalia/status/2064753867775209802",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Talks to Free Egyptian Sailors Held By Somali Pirates Collapse Over Ransom Dispute https://t.co/Vk5mOLwnYU…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "‘Every day it’s more barriers’: how the US is shutting out climate refugees https://t.co/w0sBia3mTv #TheGua…",
+      "severity": "Medium",
+      "source": "Eye on Somalia",
+      "sourceUrl": "https://x.com/Eye_on_Somalia/status/2064709251621441979",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "‘Every day it’s more barriers’: how the US is shutting out climate refugees https://t.co/w0sBia3mTv #TheGua…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Somali Referee Omar Artan Returns to Hero's Welcome After US Entry Denial https://t.co/1IVyYrSdUw #AlAfrica…",
+      "severity": "Medium",
+      "source": "Eye on Somalia",
+      "sourceUrl": "https://x.com/Eye_on_Somalia/status/2064668743058505810",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somali Referee Omar Artan Returns to Hero's Welcome After US Entry Denial https://t.co/1IVyYrSdUw #AlAfrica…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Somali Opposition Accuses Government of Targeting Political Rivals https://t.co/lSfnW3IhVN #AlAfricaNews #S…",
+      "severity": "Medium",
+      "source": "Eye on Somalia",
+      "sourceUrl": "https://x.com/Eye_on_Somalia/status/2064667987068772863",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somali Opposition Accuses Government of Targeting Political Rivals https://t.co/lSfnW3IhVN #AlAfricaNews #S…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Denied Entry to U.S., Celebrated at Home: Somali Referee Omar Artan Returns to Hero’s Welcome.",
+      "severity": "Medium",
+      "source": "Garowe Online",
+      "sourceUrl": "https://x.com/GaroweOnline/status/2064809549077324127",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Denied Entry to U.S., Celebrated at Home: Somali Referee Omar Artan Returns to Hero’s Welcome."
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Thousands of people filled Mogadishu Stadium today to welcome Somali international referee Omar Abdulkadir…",
+      "severity": "Medium",
+      "source": "Frontier Online K",
+      "sourceUrl": "https://x.com/FrontierOnlineK/status/2064742255756300628",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Thousands of people filled Mogadishu Stadium today to welcome Somali international referee Omar Abdulkadir…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "#Somalia’s Prime Minister @HamzaAbdiBarre on Wednesday hosted Somali international referee Omar Abdulkadir…",
+      "severity": "Medium",
+      "source": "Frontier Online K",
+      "sourceUrl": "https://x.com/FrontierOnlineK/status/2064658726972252195",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "#Somalia’s Prime Minister @HamzaAbdiBarre on Wednesday hosted Somali international referee Omar Abdulkadir…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "BREAKING: FIFA president Gianni Infantino on Omar Artan, a Somali referee who was due to officiate at the W…",
+      "severity": "Medium",
+      "source": "The Daily Somalia",
+      "sourceUrl": "https://x.com/TheDailySomalia/status/2064807363358454038",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "BREAKING: FIFA president Gianni Infantino on Omar Artan, a Somali referee who was due to officiate at the W…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "📸 IN PICTURES: Thousands gathered at Mogadishu Stadium to welcome Somali referee Omar Abdulkadir Artan afte…",
+      "severity": "Medium",
+      "source": "The Daily Somalia",
+      "sourceUrl": "https://x.com/TheDailySomalia/status/2064796730550325734",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "📸 IN PICTURES: Thousands gathered at Mogadishu Stadium to welcome Somali referee Omar Abdulkadir Artan afte…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "BREAKING: Telecommunications companies have informed the public that both internet and electricity services…",
+      "severity": "Medium",
+      "source": "The Daily Somalia",
+      "sourceUrl": "https://x.com/TheDailySomalia/status/2064750147381108982",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "BREAKING: Telecommunications companies have informed the public that both internet and electricity services…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Hero’s welcome at Stadium Mogadishu for Somali referee denied entry to US World Cup tournament https://t.co…",
+      "severity": "Medium",
+      "source": "The Daily Somalia",
+      "sourceUrl": "https://x.com/TheDailySomalia/status/2064724465804616012",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Hero’s welcome at Stadium Mogadishu for Somali referee denied entry to US World Cup tournament https://t.co…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "BREAKING: The Federal Republic of Somalia expresses deep regret after the United States denied entry to int…",
+      "severity": "Medium",
+      "source": "The Daily Somalia",
+      "sourceUrl": "https://x.com/TheDailySomalia/status/2064720268115767570",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "BREAKING: The Federal Republic of Somalia expresses deep regret after the United States denied entry to int…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Somali football referee Omar Artan received a warm reception at the Villa Somalia, where Outgoing President…",
+      "severity": "Medium",
+      "source": "The Daily Somalia",
+      "sourceUrl": "https://x.com/TheDailySomalia/status/2064673516373340241",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somali football referee Omar Artan received a warm reception at the Villa Somalia, where Outgoing President…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "“I welcomed Somali referee Omar Artan to my office today, sharing how the government and the Somali people…",
+      "severity": "Medium",
+      "source": "The Daily Somalia",
+      "sourceUrl": "https://x.com/TheDailySomalia/status/2064650170927608008",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "“I welcomed Somali referee Omar Artan to my office today, sharing how the government and the Somali people…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Somali football referee Omar Artan received a warm reception at the Prime Minister’s Office, where Prime Mi…",
+      "severity": "Medium",
+      "source": "The Daily Somalia",
+      "sourceUrl": "https://x.com/TheDailySomalia/status/2064648283675341016",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somali football referee Omar Artan received a warm reception at the Prime Minister’s Office, where Prime Mi…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Puntland",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "BREAKING: Puntland VP, Ilyas Lugator have issued directives against politicians aligned with Outgoing Presi…",
+      "severity": "Medium",
+      "source": "The Daily Somalia",
+      "sourceUrl": "https://x.com/TheDailySomalia/status/2064642607532097561",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "BREAKING: Puntland VP, Ilyas Lugator have issued directives against politicians aligned with Outgoing Presi…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "That's what it looked like here in Mogadishu:",
+      "severity": "Medium",
+      "source": "Somalia Analyst",
+      "sourceUrl": "https://x.com/AnalystSomalia/status/2064810501482111465",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "That's what it looked like here in Mogadishu:"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "RT @Aynte: We are all immensely proud of referee Omar Artan and he is a national hero in #Somalia 👏🏾👏🏾👏🏾",
+      "severity": "Medium",
+      "source": "Somalia Analyst",
+      "sourceUrl": "https://x.com/AnalystSomalia/status/2064792888102301720",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "RT @Aynte: We are all immensely proud of referee Omar Artan and he is a national hero in #Somalia 👏🏾👏🏾👏🏾"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "RT @hodansomali: THE OPENING OF THE WORLD CUP",
+      "severity": "Medium",
+      "source": "Somalia Analyst",
+      "sourceUrl": "https://x.com/AnalystSomalia/status/2064792642211246376",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "RT @hodansomali: THE OPENING OF THE WORLD CUP"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "RT @HamzaAbdiBarre: I told our Somali Referee Omar Artan that while his World Cup officiating dream may hav…",
+      "severity": "Medium",
+      "source": "Somalia Analyst",
+      "sourceUrl": "https://x.com/AnalystSomalia/status/2064661647172526426",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "RT @HamzaAbdiBarre: I told our Somali Referee Omar Artan that while his World Cup officiating dream may hav…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Thousands of fans gathered at Mogadishu Stadium in Somalia 🇸🇴 to welcome the country's leading internationa…",
+      "severity": "Medium",
+      "source": "Africa View Facts",
+      "sourceUrl": "https://x.com/AfricaViewFacts/status/2064780238005915870",
+      "_confidence": 0.5,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Thousands of fans gathered at Mogadishu Stadium in Somalia 🇸🇴 to welcome the country's leading internationa…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Somali 🇸🇴 referee Omar Artan received a hero’s welcome after returning to Somalia, with large crowds and go…",
+      "severity": "Medium",
+      "source": "Africa View Facts",
+      "sourceUrl": "https://x.com/AfricaViewFacts/status/2064656072644739361",
+      "_confidence": 0.5,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somali 🇸🇴 referee Omar Artan received a hero’s welcome after returning to Somalia, with large crowds and go…"
+    },
+    {
+      "country": "Sudan",
+      "region": "North Kordofan",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "Sudan 🇸🇩: reports of RSF shelling on the isolated town of Dilling in South Kordofan today. https://t.co/AQx…",
+      "severity": "Medium",
+      "source": "Thomas van Linge",
+      "sourceUrl": "https://x.com/ThomasVLinge/status/2064790654060773737",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Sudan"
+      ],
+      "_raw_title": "Sudan 🇸🇩: reports of RSF shelling on the isolated town of Dilling in South Kordofan today. https://t.co/AQx…"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "Tigray Region",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "In a disturbing development the TPLF seems to have taken a couple pages from Isaias Afwerki's playbook and…",
+      "severity": "Medium",
+      "source": "Thomas van Linge",
+      "sourceUrl": "https://x.com/ThomasVLinge/status/2064733926870995404",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "In a disturbing development the TPLF seems to have taken a couple pages from Isaias Afwerki's playbook and…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-10",
+      "type": "Armed Conflict",
+      "description": "BREAKING: Trump administration claims the Somali referee was denied entry because he is a security threat t…",
+      "severity": "Medium",
+      "source": "Larry Madowo",
+      "sourceUrl": "https://x.com/LarryMadowo/status/2064604918447493268",
+      "_confidence": 0.5,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "BREAKING: Trump administration claims the Somali referee was denied entry because he is a security threat t…"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Warrap",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Twic health facilities roar back to life after closure over funding shortfalls",
+      "severity": "Medium",
+      "source": "Sudans Post",
+      "sourceUrl": "https://www.sudanspost.com/twic-health-facilities-roar-back-to-life-after-closure-over-funding-shortfalls/?utm_source=rss&utm_medium=rss&utm_campaign=twic-health-facilities-roar-back-to-life-after-closure-over-funding-shortfalls",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Twic health facilities roar back to life after closure over funding shortfalls"
+    },
+    {
+      "country": "Sudan",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "South Sudanese activist declines regional event invitation over ‘unequal’ delegate treatment",
+      "severity": "Medium",
+      "source": "Sudans Post",
+      "sourceUrl": "https://www.sudanspost.com/south-sudanese-activist-declines-regional-event-invitation-over-unequal-delegate-treatment/?utm_source=rss&utm_medium=rss&utm_campaign=south-sudanese-activist-declines-regional-event-invitation-over-unequal-delegate-treatment",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Sudan",
+        "South Sudan"
+      ],
+      "_raw_title": "South Sudanese activist declines regional event invitation over ‘unequal’ delegate treatment"
+    },
+    {
+      "country": "Sudan",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Economic Cluster approves SSP 11.3 trillion draft budget",
+      "severity": "Medium",
+      "source": "Sudans Post",
+      "sourceUrl": "https://www.sudanspost.com/economic-cluster-approves-ssp-11-335-trillion-draft-budget/?utm_source=rss&utm_medium=rss&utm_campaign=economic-cluster-approves-ssp-11-335-trillion-draft-budget",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Sudan",
+        "South Sudan"
+      ],
+      "_raw_title": "Economic Cluster approves SSP 11.3 trillion draft budget"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Juba",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Amnesty fears businessman Athorbey could be extradited to South Sudan",
+      "severity": "Medium",
+      "source": "Sudans Post",
+      "sourceUrl": "https://www.sudanspost.com/amnesty-fears-businessman-athorbey-could-be-extradited-to-south-sudan/?utm_source=rss&utm_medium=rss&utm_campaign=amnesty-fears-businessman-athorbey-could-be-extradited-to-south-sudan",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Amnesty fears businessman Athorbey could be extradited to South Sudan"
+    },
+    {
+      "country": "Sudan",
+      "region": "Blue Nile State",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "#Sudan | A new report by the Humanitarian Research Lab at the Yale School of Public Health, @HRL_YaleSPH, h…",
+      "severity": "Medium",
+      "source": "Sudan Tweet",
+      "sourceUrl": "https://x.com/Sudan_tweet/status/2064895693706146148",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Sudan"
+      ],
+      "_raw_title": "#Sudan | A new report by the Humanitarian Research Lab at the Yale School of Public Health, @HRL_YaleSPH, h…"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "President Kiir Donates 500 Million SSP to Groups in Aweil",
+      "severity": "Medium",
+      "source": "SSG Global",
+      "sourceUrl": "https://x.com/SSGglobal/status/2065117962848043430",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "President Kiir Donates 500 Million SSP to Groups in Aweil"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "NISA Intercepts Massive Explosives Cache In Lower Shabelle",
+      "severity": "Medium",
+      "source": "SONNA Somalia",
+      "sourceUrl": "https://sonna.so/en/nisa-intercepts-massive-explosives-cache-in-lower-shabelle/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "NISA Intercepts Massive Explosives Cache In Lower Shabelle"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Somalia Advances Bilateral Economic and Diplomatic Strategy as New Ambassador Presents Credentials in Pretoria",
+      "severity": "Medium",
+      "source": "SONNA Somalia",
+      "sourceUrl": "https://sonna.so/en/somalia-advances-bilateral-economic-and-diplomatic-strategy-as-new-ambassador-presents-credentials-in-pretoria/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somalia Advances Bilateral Economic and Diplomatic Strategy as New Ambassador Presents Credentials in Pretoria"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Somalia Advances Institutional State-Building with Massive Infrastructure Launch in Jowhar Alongside Global Sports Recognition",
+      "severity": "Medium",
+      "source": "SONNA Somalia",
+      "sourceUrl": "https://sonna.so/en/somalia-advances-institutional-state-building-with-massive-infrastructure-launch-in-jowhar-alongside-global-sports-recognition/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somalia Advances Institutional State-Building with Massive Infrastructure Launch in Jowhar Alongside Global Sports Recognition"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "President Hassan Sheikh Mohamud Inaugurates Critical Infrastructure and Governance Hubs in Jowhar",
+      "severity": "Medium",
+      "source": "SONNA Somalia",
+      "sourceUrl": "https://sonna.so/en/president-hassan-sheikh-mohamud-inaugurates-critical-infrastructure-and-governance-hubs-in-jowhar/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "President Hassan Sheikh Mohamud Inaugurates Critical Infrastructure and Governance Hubs in Jowhar"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Jubbaland oo eedayn u jeedisey Dowaldda Somalia.",
+      "severity": "Medium",
+      "source": "Horseed Media",
+      "sourceUrl": "https://horseedmedia.net/jubbaland-oo-eedayn-u-jeedisey-dowaldda-somalia/422761/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Jubbaland oo eedayn u jeedisey Dowaldda Somalia."
+    },
+    {
+      "country": "Somalia",
+      "region": "Puntland",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Puntland oo maxkamad keentay sarkaal laaluush qaatay & askari ka diidey.",
+      "severity": "Medium",
+      "source": "Horseed Media",
+      "sourceUrl": "https://horseedmedia.net/puntland-oo-maxkamad-keentay-sarkaal-laaluush-qaatay-askari-ka-diidey/422757/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Puntland oo maxkamad keentay sarkaal laaluush qaatay & askari ka diidey."
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Siyaasiyiintii dhisay Aadan Madoobe oo u jihaystay doorashada guddoonka golaha shacabka.",
+      "severity": "Medium",
+      "source": "Horseed Media",
+      "sourceUrl": "https://horseedmedia.net/siyaasiyiintii-dhisay-aadan-madoobe-oo-u-jihaystay-doorashada-guddoonka-golaha-shacabka/422755/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Siyaasiyiintii dhisay Aadan Madoobe oo u jihaystay doorashada guddoonka golaha shacabka."
+    },
+    {
+      "country": "Ethiopia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "የትራምፕ አለም ዋንጫ",
+      "severity": "Medium",
+      "source": "Ethiopia Observer",
+      "sourceUrl": "https://www.ethiopiaobserver.com/2026/06/11/%e1%8b%a8%e1%89%b5%e1%88%ab%e1%88%9d%e1%8d%95-%e1%8a%a0%e1%88%88%e1%88%9d-%e1%8b%8b%e1%8a%95%e1%8c%ab/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "የትራምፕ አለም ዋንጫ"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "Tigray Region",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "RT @Tigrai_TV: Tigrayan Diaspora Group Urges for International Intervention Over Alleged Renewed Conflict i…",
+      "severity": "Medium",
+      "source": "Martin Plaut",
+      "sourceUrl": "https://x.com/martinplaut/status/2065183780810219970",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "RT @Tigrai_TV: Tigrayan Diaspora Group Urges for International Intervention Over Alleged Renewed Conflict i…"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Ethiopia's election: NEBE Board had planned to announce the final election results today, but it was only a…",
+      "severity": "Medium",
+      "source": "Martin Plaut",
+      "sourceUrl": "https://x.com/martinplaut/status/2065183493420650892",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "Ethiopia's election: NEBE Board had planned to announce the final election results today, but it was only a…"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Upper Nile",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "The Governor of Upper Nile State, Gen. James Koang Chuol Koang, is urging unity and reconciliation among re…",
+      "severity": "Medium",
+      "source": "Eye Radio Juba",
+      "sourceUrl": "https://x.com/EyeRadioJuba/status/2065072571125563777",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "The Governor of Upper Nile State, Gen. James Koang Chuol Koang, is urging unity and reconciliation among re…"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Juba",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "National Democratic Movement (NDM) leader Lam Akol returned to Juba on Thursday after spending several mont…",
+      "severity": "Medium",
+      "source": "Eye Radio Juba",
+      "sourceUrl": "https://x.com/EyeRadioJuba/status/2065013446697967863",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "National Democratic Movement (NDM) leader Lam Akol returned to Juba on Thursday after spending several mont…"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "The Economic Cluster has approved a proposed budget of 11.335 trillion South Sudanese Pounds for the 2026/2…",
+      "severity": "Medium",
+      "source": "Eye Radio Juba",
+      "sourceUrl": "https://x.com/EyeRadioJuba/status/2064939698162696642",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "The Economic Cluster has approved a proposed budget of 11.335 trillion South Sudanese Pounds for the 2026/2…"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Juba",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "RT @thesouthfaceorg: Lo que ves en este vídeo no es un banco, es un supermercado en Juba, #SudándelSur.",
+      "severity": "Medium",
+      "source": "Ponnie Sheila",
+      "sourceUrl": "https://x.com/PonnieSheila/status/2065051941386825786",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "RT @thesouthfaceorg: Lo que ves en este vídeo no es un banco, es un supermercado en Juba, #SudándelSur."
+    },
+    {
+      "country": "Ethiopia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Ethiopia, Nigeria Sign Prisoner Transfer Agreement as Officials Seek Closer Ties",
+      "severity": "Medium",
+      "source": "The Reporter ET (X)",
+      "sourceUrl": "https://x.com/TheReporterET/status/2065057413162525133",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "Ethiopia, Nigeria Sign Prisoner Transfer Agreement as Officials Seek Closer Ties"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Ethiopia’s Food Entrepreneurs are Ready. The Investment Architecture Must Follow",
+      "severity": "Medium",
+      "source": "The Reporter ET (X)",
+      "sourceUrl": "https://x.com/TheReporterET/status/2064950854835224727",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "Ethiopia’s Food Entrepreneurs are Ready. The Investment Architecture Must Follow"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "𝐀 𝐏𝐑𝐎𝐌𝐈𝐒𝐄 𝐊𝐄𝐏𝐓. 𝐀 𝐂𝐎𝐔𝐍𝐓𝐑𝐘 𝐈𝐍 𝐓𝐑𝐀𝐍𝐒𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍",
+      "severity": "Medium",
+      "source": "PM Ethiopia",
+      "sourceUrl": "https://x.com/PMEthiopia/status/2065004710856159725",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "𝐀 𝐏𝐑𝐎𝐌𝐈𝐒𝐄 𝐊𝐄𝐏𝐓. 𝐀 𝐂𝐎𝐔𝐍𝐓𝐑𝐘 𝐈𝐍 𝐓𝐑𝐀𝐍𝐒𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "#Akkon Lines Shipping Company was officially welcomed to #Mogadishu today as it prepares to launch direct s…",
+      "severity": "Medium",
+      "source": "SMS Somali TV",
+      "sourceUrl": "https://x.com/SMSSomaliTV1/status/2065125170822447334",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "#Akkon Lines Shipping Company was officially welcomed to #Mogadishu today as it prepares to launch direct s…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Hassan Abdi Hoogsade, #Chairman of the Bakara Market Traders Association, has lodged a complaint with the F…",
+      "severity": "Medium",
+      "source": "SMS Somali TV",
+      "sourceUrl": "https://x.com/SMSSomaliTV1/status/2065121775323648323",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Hassan Abdi Hoogsade, #Chairman of the Bakara Market Traders Association, has lodged a complaint with the F…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Sheikh Yusuf Sheikh Mohamed Wehliye, #Chairman of the Suuq Ba'ad Traders #Association, said that merchants…",
+      "severity": "Medium",
+      "source": "SMS Somali TV",
+      "sourceUrl": "https://x.com/SMSSomaliTV1/status/2065121077995405814",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Sheikh Yusuf Sheikh Mohamed Wehliye, #Chairman of the Suuq Ba'ad Traders #Association, said that merchants…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "UEFA have announced Somali referee Omar Artan will take charge of the 2026 Super Cup Final between Aston Vi…",
+      "severity": "Medium",
+      "source": "Baidoa Online",
+      "sourceUrl": "https://x.com/BaidoaOnline/status/2065077402816880773",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "UEFA have announced Somali referee Omar Artan will take charge of the 2026 Super Cup Final between Aston Vi…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Armed Men Block Key Coastal Highway Connecting Mogadishu to Central Somalia https://t.co/Z0vs8myk2H",
+      "severity": "Medium",
+      "source": "Baidoa Online",
+      "sourceUrl": "https://x.com/BaidoaOnline/status/2065003567467876707",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Armed Men Block Key Coastal Highway Connecting Mogadishu to Central Somalia https://t.co/Z0vs8myk2H"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-11",
+      "type": "Civil Unrest",
+      "description": "Government Forces Use Live Fire as Protests Erupt in Mogadishu’s Abdiaziz District https://t.co/sDEucAdAqi",
+      "severity": "Medium",
+      "source": "Baidoa Online",
+      "sourceUrl": "https://x.com/BaidoaOnline/status/2064953749743841626",
+      "_confidence": 0.75,
+      "_threat_specific": true,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Government Forces Use Live Fire as Protests Erupt in Mogadishu’s Abdiaziz District https://t.co/sDEucAdAqi"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "🚨 #BREAKING: #Kenya's William Ruto condemns U.S. refusal of entry to Somali World Cup referee Omar Artan, c…",
+      "severity": "Medium",
+      "source": "Somali Guardian (X)",
+      "sourceUrl": "https://x.com/SomaliGuardian/status/2065144939332116659",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "🚨 #BREAKING: #Kenya's William Ruto condemns U.S. refusal of entry to Somali World Cup referee Omar Artan, c…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "#BREAKING: Galmudug presidential candidate Liban Shuluq has donated $50,000 to Somali World Cup referee Oma…",
+      "severity": "Medium",
+      "source": "Somali Guardian (X)",
+      "sourceUrl": "https://x.com/SomaliGuardian/status/2065073807748997630",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "#BREAKING: Galmudug presidential candidate Liban Shuluq has donated $50,000 to Somali World Cup referee Oma…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Former Somali President Sharif Sheikh Ahmed has condemned the federal government’s forced eviction campaign…",
+      "severity": "Medium",
+      "source": "Somali Guardian (X)",
+      "sourceUrl": "https://x.com/SomaliGuardian/status/2065032581574225980",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Former Somali President Sharif Sheikh Ahmed has condemned the federal government’s forced eviction campaign…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Somalia President Inaugurates Key Development Projects in Jowhar, Hirshabelle State. #Hirshabelle #Somalia…",
+      "severity": "Medium",
+      "source": "Horn Post News",
+      "sourceUrl": "https://x.com/Hornpostnews/status/2065218498763350256",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somalia President Inaugurates Key Development Projects in Jowhar, Hirshabelle State. #Hirshabelle #Somalia…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Is Trump about to ruin the World Cup? | Politics Weekly America https://t.co/C7JmDwmoR1 #TheGuardian #Somalia",
+      "severity": "Medium",
+      "source": "Eye on Somalia",
+      "sourceUrl": "https://x.com/Eye_on_Somalia/status/2065124749257375939",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Is Trump about to ruin the World Cup? | Politics Weekly America https://t.co/C7JmDwmoR1 #TheGuardian #Somalia"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Is Trump about to ruin the World Cup? | Politics Weekly America https://t.co/X6vWIgiaHg #TheGuardian #Somalia",
+      "severity": "Medium",
+      "source": "Eye on Somalia",
+      "sourceUrl": "https://x.com/Eye_on_Somalia/status/2065081710019268622",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Is Trump about to ruin the World Cup? | Politics Weekly America https://t.co/X6vWIgiaHg #TheGuardian #Somalia"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Civil Unrest",
+      "description": "AU Backs Record 10 Teams At 2026 World Cup As Somalia Protests Referee Visa Denial https://t.co/WxBAhHIG4O…",
+      "severity": "Medium",
+      "source": "Eye on Somalia",
+      "sourceUrl": "https://x.com/Eye_on_Somalia/status/2065055278945726968",
+      "_confidence": 0.75,
+      "_threat_specific": true,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "AU Backs Record 10 Teams At 2026 World Cup As Somalia Protests Referee Visa Denial https://t.co/WxBAhHIG4O…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Lower Shabelle",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Somali Elite Forces Conduct Security Operations, Reconciliation Efforts in Lower Shabelle https://t.co/o0Bn…",
+      "severity": "Medium",
+      "source": "Eye on Somalia",
+      "sourceUrl": "https://x.com/Eye_on_Somalia/status/2065041720400887877",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somali Elite Forces Conduct Security Operations, Reconciliation Efforts in Lower Shabelle https://t.co/o0Bn…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Somalia Regrets U.S. Entry Denial for CAF Referee Omar Artan https://t.co/AHJVnozsx1 #AlAfricaNews #Somalia",
+      "severity": "Medium",
+      "source": "Eye on Somalia",
+      "sourceUrl": "https://x.com/Eye_on_Somalia/status/2065040941338206615",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somalia Regrets U.S. Entry Denial for CAF Referee Omar Artan https://t.co/AHJVnozsx1 #AlAfricaNews #Somalia"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Banadir Regional Administration has ordered cattle owners to remove free-roaming animals from Mogadishu str…",
+      "severity": "Medium",
+      "source": "Dawan Africa",
+      "sourceUrl": "https://x.com/DawanAfrica/status/2065115753045532752",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Banadir Regional Administration has ordered cattle owners to remove free-roaming animals from Mogadishu str…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "#Hirshabeelle Opens New Presidential Palace and Roads in #Jowhar",
+      "severity": "Medium",
+      "source": "Dawan Africa",
+      "sourceUrl": "https://x.com/DawanAfrica/status/2065085183959695430",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "#Hirshabeelle Opens New Presidential Palace and Roads in #Jowhar"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Somali Referee Omar Artan Appointed to Officiate #UEFA Super Cup Final",
+      "severity": "Medium",
+      "source": "Garowe Online",
+      "sourceUrl": "https://x.com/GaroweOnline/status/2065154695811727514",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somali Referee Omar Artan Appointed to Officiate #UEFA Super Cup Final"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Kenyan President William Ruto and other African leaders heavily criticized the United States for denying en…",
+      "severity": "Medium",
+      "source": "Garowe Online",
+      "sourceUrl": "https://x.com/GaroweOnline/status/2065149744809169253",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Kenyan President William Ruto and other African leaders heavily criticized the United States for denying en…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "BREAKING: #UEFA announces Somali referee Omar Artan, who was denied entry to the US to officiate at the Wor…",
+      "severity": "Medium",
+      "source": "Garowe Online",
+      "sourceUrl": "https://x.com/GaroweOnline/status/2065089625488597265",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "BREAKING: #UEFA announces Somali referee Omar Artan, who was denied entry to the US to officiate at the Wor…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Somali President Hassan Sheikh Mohamud, whose term in office expired last month, arrived in the city of Jow…",
+      "severity": "Medium",
+      "source": "Garowe Online",
+      "sourceUrl": "https://x.com/GaroweOnline/status/2065050183340011619",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somali President Hassan Sheikh Mohamud, whose term in office expired last month, arrived in the city of Jow…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "FIFA Chief Says Somali Referee's U.S. Entry Denial 'Unfortunate' but Beyond Body's Authority. #Somalia",
+      "severity": "Medium",
+      "source": "Garowe Online",
+      "sourceUrl": "https://x.com/GaroweOnline/status/2064989587991109973",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "FIFA Chief Says Somali Referee's U.S. Entry Denial 'Unfortunate' but Beyond Body's Authority. #Somalia"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "#Somali referee Omar Artan has been appointed to officiate the UEFA Super Cup between Paris Saint-Germain a…",
+      "severity": "Medium",
+      "source": "Frontier Online K",
+      "sourceUrl": "https://x.com/FrontierOnlineK/status/2065147356191031589",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "#Somali referee Omar Artan has been appointed to officiate the UEFA Super Cup between Paris Saint-Germain a…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Somalia Regrets US Entry Denial for Referee Omar Artan as Thousands Welcome Him Home https://t.co/yP1faAlGrx",
+      "severity": "Medium",
+      "source": "Frontier Online K",
+      "sourceUrl": "https://x.com/FrontierOnlineK/status/2064914996631408708",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somalia Regrets US Entry Denial for Referee Omar Artan as Thousands Welcome Him Home https://t.co/yP1faAlGrx"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "The National Intelligence and Security Agency (NISA) has executed a highly successful operation, intercepti…",
+      "severity": "Medium",
+      "source": "SONNA Live",
+      "sourceUrl": "https://x.com/SONNALIVE/status/2065132206016622653",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "The National Intelligence and Security Agency (NISA) has executed a highly successful operation, intercepti…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "H.E. Ambassador Adam Issak has officially submitted copies of his credentials to the South African Ministry…",
+      "severity": "Medium",
+      "source": "SONNA Live",
+      "sourceUrl": "https://x.com/SONNALIVE/status/2065130782864077066",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "H.E. Ambassador Adam Issak has officially submitted copies of his credentials to the South African Ministry…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Muhudiin Saabeey highlights the undeniable transformation in Jowhar, commending the powerful collaboration…",
+      "severity": "Medium",
+      "source": "SONNA Live",
+      "sourceUrl": "https://x.com/SONNALIVE/status/2065127690181419167",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Muhudiin Saabeey highlights the undeniable transformation in Jowhar, commending the powerful collaboration…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Hirshabelle Minister of Finance Abdirahiin Isse Addow provided details on the newly inaugurated Ministry h…",
+      "severity": "Medium",
+      "source": "SONNA Live",
+      "sourceUrl": "https://x.com/SONNALIVE/status/2065126209252470914",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Hirshabelle Minister of Finance Abdirahiin Isse Addow provided  details on the newly inaugurated Ministry h…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Former Prime Minister Prof. Ali Mohamed Gedi has publicly validated the governance transformation in Hirsha…",
+      "severity": "Medium",
+      "source": "SONNA Live",
+      "sourceUrl": "https://x.com/SONNALIVE/status/2065123798005719548",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Former Prime Minister Prof. Ali Mohamed Gedi has publicly validated the governance transformation in Hirsha…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Former National Intelligence Chief Jeneraal Abdirahmaan Turyare has highly praised the extensive infrastruc…",
+      "severity": "Medium",
+      "source": "SONNA Live",
+      "sourceUrl": "https://x.com/SONNALIVE/status/2065122978225148220",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Former National Intelligence Chief Jeneraal Abdirahmaan Turyare has highly praised the extensive infrastruc…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Former Mayor of Mogadishu, Mohamed osmaan Ali Dhagahtuur, publicly praised the infrastructure expansion in…",
+      "severity": "Medium",
+      "source": "SONNA Live",
+      "sourceUrl": "https://x.com/SONNALIVE/status/2065121162699386886",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Former Mayor of Mogadishu, Mohamed osmaan Ali Dhagahtuur, publicly praised the infrastructure expansion in…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "The Chairman of the Somali Chamber of Commerce, Mohamud Abdikariin Gabeyre, emphasizes that the private sec…",
+      "severity": "Medium",
+      "source": "SONNA Live",
+      "sourceUrl": "https://x.com/SONNALIVE/status/2065118878531805539",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "The Chairman of the Somali Chamber of Commerce, Mohamud Abdikariin Gabeyre, emphasizes that the private sec…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Hirshabelle Minister of Education Saeed Hagar Hagaley announced today that the newly inaugurated Ministry h…",
+      "severity": "Medium",
+      "source": "SONNA Live",
+      "sourceUrl": "https://x.com/SONNALIVE/status/2065116099058749597",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Hirshabelle Minister of Education Saeed Hagar Hagaley announced today that the newly inaugurated Ministry h…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "UEFA officially appoints Somali international referee Omar Artan to officiate the highly anticipated 2026 S…",
+      "severity": "Medium",
+      "source": "SONNA Live",
+      "sourceUrl": "https://x.com/SONNALIVE/status/2065087937214067096",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "UEFA officially appoints Somali international referee Omar Artan to officiate the highly anticipated 2026 S…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "A new era of progress for Hirshabelle. Today, H.E. President @HassanSMohamud led a historic development tou…",
+      "severity": "Medium",
+      "source": "SONNA Live",
+      "sourceUrl": "https://x.com/SONNALIVE/status/2065070518772912348",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "A new era of progress for Hirshabelle. Today, H.E. President @HassanSMohamud led a historic development tou…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Top Somali and African referee Omar Artan will officiate 2026 UEFA Super Cup after being unable to particip…",
+      "severity": "Medium",
+      "source": "SONNA Live",
+      "sourceUrl": "https://x.com/SONNALIVE/status/2065067653689983299",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Top Somali and African referee Omar Artan will officiate 2026 UEFA Super Cup after being unable to particip…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "H.E. President @HassanSMohamud officially cuts the ribbon, marking the successful inauguration of the newly…",
+      "severity": "Medium",
+      "source": "SONNA Live",
+      "sourceUrl": "https://x.com/SONNALIVE/status/2065050942907576696",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "H.E. President @HassanSMohamud officially cuts the ribbon, marking the successful inauguration of the newly…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "BREAKING: Somali referee Omar Artan has been appointed to officiate the 2026 Super Cup match between PSG an…",
+      "severity": "Medium",
+      "source": "The Daily Somalia",
+      "sourceUrl": "https://x.com/TheDailySomalia/status/2065061633034969330",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "BREAKING: Somali referee Omar Artan has been appointed to officiate the 2026 Super Cup match between PSG an…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Somali businessman and Galmudug presidential aspirant Liban Ahmed Hassan has donated $50,000 to Somali FIFA…",
+      "severity": "Medium",
+      "source": "The Daily Somalia",
+      "sourceUrl": "https://x.com/TheDailySomalia/status/2065055263934095485",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somali businessman and Galmudug presidential aspirant Liban Ahmed Hassan has donated $50,000 to Somali FIFA…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Tensions have erupted within Adan Madobe’s South West State camp during the race for Speaker of the 7th Som…",
+      "severity": "Medium",
+      "source": "The Daily Somalia",
+      "sourceUrl": "https://x.com/TheDailySomalia/status/2065041602259693843",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Tensions have erupted within Adan Madobe’s South West State camp during the race for Speaker of the 7th Som…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "The Speaker of the Somali Parliament has officially assumed the leadership of South West State after the di…",
+      "severity": "Medium",
+      "source": "The Daily Somalia",
+      "sourceUrl": "https://x.com/TheDailySomalia/status/2065038310255263987",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "The Speaker of the Somali Parliament has officially assumed the leadership of South West State after the di…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "U.S. Congresswoman @IlhanMN criticized the Trump administration after Somali referee Omar Artan was denied…",
+      "severity": "Medium",
+      "source": "The Daily Somalia",
+      "sourceUrl": "https://x.com/TheDailySomalia/status/2065012527767949320",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "U.S. Congresswoman @IlhanMN criticized the Trump administration after Somali referee Omar Artan was denied…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "⚡️UPDATE: More than 24 hours after South West State lawmakers elected Aadan Mohamed Nur (Madobe) president…",
+      "severity": "Medium",
+      "source": "The Daily Somalia",
+      "sourceUrl": "https://x.com/TheDailySomalia/status/2064998423976157468",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "⚡️UPDATE: More than 24 hours after South West State lawmakers elected Aadan Mohamed Nur (Madobe) president…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "BREAKING: Somali international referee Omar Artan has distanced himself from accounts bearing his name on X…",
+      "severity": "Medium",
+      "source": "The Daily Somalia",
+      "sourceUrl": "https://x.com/TheDailySomalia/status/2064968095656005686",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "BREAKING: Somali international referee Omar Artan has distanced himself from accounts bearing his name on X…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "RT @UEFA: 🏆 Referee announced for 2026 #SuperCup!",
+      "severity": "Medium",
+      "source": "Somalia Analyst",
+      "sourceUrl": "https://x.com/AnalystSomalia/status/2065133571602366793",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "RT @UEFA: 🏆 Referee announced for 2026 #SuperCup!"
+    },
+    {
+      "country": "DRC",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "RT @VoiceOfCongo: ‼️ Olivier Kamitatu, porte-parole de Moise Katumbi :",
+      "severity": "Medium",
+      "source": "Voice of Congo",
+      "sourceUrl": "https://x.com/VoiceOfCongo/status/2065145558042378492",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "RT @VoiceOfCongo: ‼️ Olivier Kamitatu, porte-parole de Moise Katumbi  :"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Kinshasa : Après le double Stade de France, Fally Ipupa célébré par la communauté Ekonda et Anamongo https:…",
+      "severity": "Medium",
+      "source": "Voice of Congo",
+      "sourceUrl": "https://x.com/VoiceOfCongo/status/2065140570805194927",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "Kinshasa : Après le double Stade de France, Fally Ipupa célébré par la communauté Ekonda et Anamongo https:…"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "🦅 Après le Stade de France, Fally Ipupa célébré par la communauté Ekonda et Anamongo : « Nous allons contin…",
+      "severity": "Medium",
+      "source": "Voice of Congo",
+      "sourceUrl": "https://x.com/VoiceOfCongo/status/2065116693895295287",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "🦅 Après le Stade de France, Fally Ipupa célébré par la communauté Ekonda et Anamongo : « Nous allons contin…"
+    },
+    {
+      "country": "DRC",
+      "region": "South Kivu",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "🎥 Bukavu : les rebelles du M23 prennent par force des étudias à l’UEA. https://t.co/frME058X12",
+      "severity": "Medium",
+      "source": "Voice of Congo",
+      "sourceUrl": "https://x.com/VoiceOfCongo/status/2065083922413690928",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "🎥 Bukavu : les rebelles du M23 prennent par force des étudias à l’UEA. https://t.co/frME058X12"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Kinshasa : Magloire Kabemba valide la digitalisation de la taxe d’embarquement - https://t.co/op5kiTRJpY",
+      "severity": "Medium",
+      "source": "Alternance CD",
+      "sourceUrl": "https://x.com/alternancecd/status/2065008493988311215",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "Kinshasa : Magloire Kabemba valide la digitalisation de la taxe d’embarquement - https://t.co/op5kiTRJpY"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "🇨🇭🇨🇩 À Genève, le VPM Jean-Pierre Lihau a obtenu l’organisation à Kinshasa de la 41ᵉ session du Conseil des…",
+      "severity": "Medium",
+      "source": "CACAP News",
+      "sourceUrl": "https://x.com/CACAP_NEWS/status/2065118726337216652",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "🇨🇭🇨🇩 À Genève, le VPM Jean-Pierre Lihau a obtenu l’organisation à Kinshasa de la 41ᵉ session du Conseil des…"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "📍La création d’une task force pour assainir Kinshasa pose une vraie question : à quoi sert le gouvernorat s…",
+      "severity": "Medium",
+      "source": "CACAP News",
+      "sourceUrl": "https://x.com/CACAP_NEWS/status/2065116835775750383",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "📍La création d’une task force pour assainir Kinshasa pose une vraie question : à quoi sert le gouvernorat s…"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Statut spécial de Nkamba : Kinshasa presse les autorités du Kongo Central de finaliser le dossier",
+      "severity": "Medium",
+      "source": "Kongo Media RDC",
+      "sourceUrl": "https://x.com/KongoMediaRDC/status/2065031863278715018",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "Statut spécial de Nkamba : Kinshasa presse les autorités du Kongo Central de finaliser le dossier"
+    },
+    {
+      "country": "DRC",
+      "region": "Ituri Province",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Alors que la riposte contre l’épidémie d’Ebola se poursuit en Ituri, un grave incident sécuritaire est surv…",
+      "severity": "Medium",
+      "source": "Radio Okapi (X)",
+      "sourceUrl": "https://x.com/radiookapi/status/2065134786889273356",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "Alors que la riposte contre l’épidémie d’Ebola se poursuit en Ituri, un grave incident sécuritaire est surv…"
+    },
+    {
+      "country": "Sudan",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "SAF : pourquoi les compagnies aériennes africaines risquent de payer le prix fort https://t.co/I9Lpkkp5G3",
+      "severity": "Medium",
+      "source": "Jeune Afrique",
+      "sourceUrl": "https://x.com/jeune_afrique/status/2064962307860419067",
+      "_confidence": 0.5,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Sudan"
+      ],
+      "_raw_title": "SAF : pourquoi les compagnies aériennes africaines risquent de payer le prix fort https://t.co/I9Lpkkp5G3"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Omar Artan 🇸🇴 will make history as the first African referee to officiate a major UEFA final.",
+      "severity": "Medium",
+      "source": "Africa View Facts",
+      "sourceUrl": "https://x.com/AfricaViewFacts/status/2065111456522051782",
+      "_confidence": 0.5,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Omar Artan 🇸🇴 will make history as the first African referee to officiate a major UEFA final."
+    },
+    {
+      "country": "DRC",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "DR Congo 🇨🇩 and Ghana 🇬🇭 are offering free or government-funded tickets for the 2026 FIFA World Cup, mainly…",
+      "severity": "Medium",
+      "source": "Africa View Facts",
+      "sourceUrl": "https://x.com/AfricaViewFacts/status/2064956048939622780",
+      "_confidence": 0.5,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "DR Congo 🇨🇩 and Ghana 🇬🇭 are offering free or government-funded tickets for the 2026 FIFA World Cup, mainly…"
+    },
+    {
+      "country": "Sudan",
+      "region": "North Kordofan",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "Sudan 🇸🇩: debris is an RSF drone which slammed into a home in the city of El Obeid in North Kordofan. https…",
+      "severity": "Medium",
+      "source": "Thomas van Linge",
+      "sourceUrl": "https://x.com/ThomasVLinge/status/2065082018291978425",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Sudan"
+      ],
+      "_raw_title": "Sudan 🇸🇩: debris is an RSF drone which slammed into a home in the city of El Obeid in North Kordofan. https…"
+    },
+    {
+      "country": "Sudan",
+      "region": "National",
+      "date": "2026-06-11",
+      "type": "Armed Conflict",
+      "description": "RT @nattyray11: Ethiopia’s 🇪🇹 military support to RSF continues at Asosa base, including painting of vehicl…",
+      "severity": "Medium",
+      "source": "Thomas van Linge",
+      "sourceUrl": "https://x.com/ThomasVLinge/status/2065042592677429265",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Sudan",
+        "Ethiopia"
+      ],
+      "_raw_title": "RT @nattyray11: Ethiopia’s 🇪🇹 military support to RSF continues at Asosa base, including painting of vehicl…"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "UK convicts two men of attempted illegal arms trafficking to South Sudan",
+      "severity": "Medium",
+      "source": "Sudans Post",
+      "sourceUrl": "https://www.sudanspost.com/uk-convicts-two-men-of-attempted-illegal-arms-trafficking-to-south-sudan/?utm_source=rss&utm_medium=rss&utm_campaign=uk-convicts-two-men-of-attempted-illegal-arms-trafficking-to-south-sudan",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "UK convicts two men of attempted illegal arms trafficking to South Sudan"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Opinion| Swapping South Sudan’s currency to resolve the liquidity crisis: A practical policy blueprint with global lessons",
+      "severity": "Medium",
+      "source": "Radio Tamazuj",
+      "sourceUrl": "https://www.radiotamazuj.org/en/news/article/opinion-swapping-south-sudans-currency-to-resolve-the-liquidity-crisis-a-practical-policy-blueprint-with-global-lessons",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Opinion| Swapping South Sudan’s currency to resolve the liquidity crisis: A practical policy blueprint with global lessons"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Kiir says officials joined his private trip expecting cash handouts",
+      "severity": "Medium",
+      "source": "Radio Tamazuj",
+      "sourceUrl": "https://www.radiotamazuj.org/en/news/article/kiir-says-officials-joined-his-private-trip-expecting-cash-handouts",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Kiir says officials joined his private trip expecting cash handouts"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Upper Nile",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Opinion| Malakal Airport and the case for presidential Intervention",
+      "severity": "Medium",
+      "source": "Radio Tamazuj",
+      "sourceUrl": "https://www.radiotamazuj.org/en/news/article/opinion-malakal-airport-and-the-case-for-presidential-intervention",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Opinion| Malakal Airport and the case for presidential Intervention"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "South Sudan launches assessment of unpaid care work to tackle gender inequality",
+      "severity": "Medium",
+      "source": "Radio Tamazuj",
+      "sourceUrl": "https://www.radiotamazuj.org/en/news/article/south-sudan-launches-assessment-of-unpaid-care-work-to-tackle-gender-inequality",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "South Sudan launches assessment of unpaid care work to tackle gender inequality"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Upper Nile",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Authorities in Renk Arrests A Muslim Preacher and Shiek for Hate Speech",
+      "severity": "Medium",
+      "source": "SSEM TV",
+      "sourceUrl": "https://x.com/ssemtv/status/2065367577971376548",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Authorities in Renk Arrests A Muslim Preacher and Shiek for Hate Speech"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Somalia Couples Regional Infrastructure Expansion with Historic Democratic Reforms",
+      "severity": "Medium",
+      "source": "SONNA Somalia",
+      "sourceUrl": "https://sonna.so/en/somalia-couples-regional-infrastructure-expansion-with-historic-democratic-reforms/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somalia Couples Regional Infrastructure Expansion with Historic Democratic Reforms"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Strategic Infrastructure Expansion Secures Governance and Economic Horizons in Hirshabelle",
+      "severity": "Medium",
+      "source": "SONNA Somalia",
+      "sourceUrl": "https://sonna.so/en/strategic-infrastructure-expansion-secures-governance-and-economic-horizons-in-hirshabelle/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Strategic Infrastructure Expansion Secures Governance and Economic Horizons in Hirshabelle"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "🔴BREAKING |🇨🇩#RDC :",
+      "severity": "Medium",
+      "source": "Breaking News RDC",
+      "sourceUrl": "https://x.com/BreakingN_RDC/status/2065420638584455543",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "🔴BREAKING |🇨🇩#RDC :"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "🔴BREAKING |🇨🇩#RDC :",
+      "severity": "Medium",
+      "source": "Breaking News RDC",
+      "sourceUrl": "https://x.com/BreakingN_RDC/status/2065418904856416492",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "🔴BREAKING |🇨🇩#RDC :"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "⚠️ Aucune confirmation officielle n'a encore été communiquée concernant son état de santé ou les circonstan…",
+      "severity": "Medium",
+      "source": "Breaking News RDC",
+      "sourceUrl": "https://x.com/BreakingN_RDC/status/2065418972443365605",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "⚠️ Aucune confirmation officielle n'a encore été communiquée concernant son état de santé ou les circonstan…"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "🔴BREAKING |🇨🇩#RDC :",
+      "severity": "Medium",
+      "source": "Breaking News RDC",
+      "sourceUrl": "https://x.com/BreakingN_RDC/status/2065416802377535547",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "🔴BREAKING |🇨🇩#RDC :"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "seraient à déplorer. Les circonstances exactes des faits et le bilan officiel restent à confirmer.",
+      "severity": "Medium",
+      "source": "Breaking News RDC",
+      "sourceUrl": "https://x.com/BreakingN_RDC/status/2065416844480000047",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "seraient à déplorer. Les circonstances exactes des faits et le bilan officiel restent à confirmer."
+    },
+    {
+      "country": "DRC",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "🔴BREAKING |🇨🇩 #RDC : La zone du périmètre du Palais du Peuple est entièrement quadrillée par des éléments…",
+      "severity": "Medium",
+      "source": "Breaking News RDC",
+      "sourceUrl": "https://x.com/BreakingN_RDC/status/2065358841382891868",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "🔴BREAKING |🇨🇩 #RDC :  La zone du périmètre du Palais du Peuple est entièrement quadrillée par des éléments…"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "⚠️ Ce déploiement sécuritaire massif intervient alors que les autorités provinciales ont interdit la manife…",
+      "severity": "Medium",
+      "source": "Breaking News RDC",
+      "sourceUrl": "https://x.com/BreakingN_RDC/status/2065358897611768238",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "⚠️ Ce déploiement sécuritaire massif intervient alors que les autorités provinciales ont interdit la manife…"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "South Sudan: Resilient Livestock Sector Project - Project profile",
+      "severity": "Medium",
+      "source": "ReliefWeb",
+      "sourceUrl": "https://reliefweb.int/report/south-sudan/south-sudan-resilient-livestock-sector-project-project-profile",
+      "_confidence": 0.5,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "South Sudan: Resilient Livestock Sector Project - Project profile"
+    },
+    {
+      "country": "DRC",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "DR Congo: WASH Learning Paper: Promoting Hygiene in IDP settings through Soap-Making Initiatives in the Democratic Republic of Congo | Concern Worldwide",
+      "severity": "Medium",
+      "source": "ReliefWeb",
+      "sourceUrl": "https://reliefweb.int/report/democratic-republic-congo/wash-learning-paper-promoting-hygiene-idp-settings-through-soap-making-initiatives-democratic-republic-congo-concern-worldwide",
+      "_confidence": 0.5,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "DR Congo: WASH Learning Paper: Promoting Hygiene in IDP settings through Soap-Making Initiatives in the Democratic Republic of Congo | Concern Worldwide"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Juba",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "From aid to entrepreneurial investment: INKOMOKO transform refugee lives in South Sudan",
+      "severity": "Medium",
+      "source": "Eye Radio",
+      "sourceUrl": "https://www.eyeradio.org/from-aid-to-entrepreneurial-investment-inkomoko-transform-refugee-lives-in-south-sudan/?utm_source=rss&utm_medium=rss&utm_campaign=from-aid-to-entrepreneurial-investment-inkomoko-transform-refugee-lives-in-south-sudan",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "From aid to entrepreneurial investment: INKOMOKO transform refugee lives in South Sudan"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Speaker Joseph Ngere joins EAC Speakers’ Bureau Meeting in Tanzania",
+      "severity": "Medium",
+      "source": "Eye Radio",
+      "sourceUrl": "https://www.eyeradio.org/speaker-joseph-ngere-joins-eac-speakers-bureau-meeting-in-tanzania/?utm_source=rss&utm_medium=rss&utm_campaign=speaker-joseph-ngere-joins-eac-speakers-bureau-meeting-in-tanzania",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Speaker Joseph Ngere joins EAC Speakers’ Bureau Meeting in Tanzania"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Parliament orders mandatory re-registration of lawmakers’ vehicles",
+      "severity": "Medium",
+      "source": "Eye Radio",
+      "sourceUrl": "https://www.eyeradio.org/parliament-orders-mandatory-re-registration-of-lawmakers-vehicles/?utm_source=rss&utm_medium=rss&utm_campaign=parliament-orders-mandatory-re-registration-of-lawmakers-vehicles",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Parliament orders mandatory re-registration of lawmakers’ vehicles"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Juba",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Police to open new crime reporting centres across Juba",
+      "severity": "Medium",
+      "source": "Eye Radio",
+      "sourceUrl": "https://www.eyeradio.org/police-to-open-new-crime-reporting-centres-across-juba/?utm_source=rss&utm_medium=rss&utm_campaign=police-to-open-new-crime-reporting-centres-across-juba",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Police to open new crime reporting centres across Juba"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Child Labour Day: Poverty and weak law enforcement driving child labour – Adv. Godfrey",
+      "severity": "Medium",
+      "source": "Eye Radio",
+      "sourceUrl": "https://www.eyeradio.org/child-labour-day-poverty-and-weak-law-enforcement-driving-child-labour-adv-godfrey/?utm_source=rss&utm_medium=rss&utm_campaign=child-labour-day-poverty-and-weak-law-enforcement-driving-child-labour-adv-godfrey",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Child Labour Day: Poverty and weak law enforcement driving child labour – Adv. Godfrey"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Warrap",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "“Our Oyee is for medicines, schools and roads, — Youth tells politicians",
+      "severity": "Medium",
+      "source": "Eye Radio",
+      "sourceUrl": "https://www.eyeradio.org/our-oyee-is-for-medicines-schools-and-roads-youth-tells-politicians/?utm_source=rss&utm_medium=rss&utm_campaign=our-oyee-is-for-medicines-schools-and-roads-youth-tells-politicians",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "“Our Oyee is for medicines, schools and roads, — Youth tells politicians"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "South Sudanese entertainer Longonyo graduates from California Film School",
+      "severity": "Medium",
+      "source": "Eye Radio",
+      "sourceUrl": "https://www.eyeradio.org/south-sudanese-entertainer-longonyo-graduates-from-california-film-school/?utm_source=rss&utm_medium=rss&utm_campaign=south-sudanese-entertainer-longonyo-graduates-from-california-film-school",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "South Sudanese entertainer Longonyo graduates from California Film School"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "UK contributes $650,000 to boost South Sudan’s Ebola preparedness",
+      "severity": "Medium",
+      "source": "Eye Radio",
+      "sourceUrl": "https://www.eyeradio.org/uk-contributes-650000-to-boost-south-sudans-ebola-preparedness/?utm_source=rss&utm_medium=rss&utm_campaign=uk-contributes-650000-to-boost-south-sudans-ebola-preparedness",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "UK contributes $650,000 to boost South Sudan’s Ebola preparedness"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "WHO delivers blood storage equipment to Wau, Aweil hospitals",
+      "severity": "Medium",
+      "source": "Eye Radio",
+      "sourceUrl": "https://www.eyeradio.org/who-delivers-blood-storage-equipment-to-wau-aweil-hospitals/?utm_source=rss&utm_medium=rss&utm_campaign=who-delivers-blood-storage-equipment-to-wau-aweil-hospitals",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "WHO delivers blood storage equipment to Wau, Aweil hospitals"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Juba",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "South Sudanese whistleblower reported abducted in Kenya",
+      "severity": "Medium",
+      "source": "Pachodo",
+      "sourceUrl": "https://pachodo.org/news-from-various-sources/45073-south-sudanese-whistleblower-reported-abducted-in-kenya",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "South Sudanese whistleblower reported abducted in Kenya"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Two men convicted in UK of trying to send weapons to conflict zones, including South Sudan",
+      "severity": "Medium",
+      "source": "Pachodo",
+      "sourceUrl": "https://pachodo.org/news-from-various-sources/45072-two-men-convicted-in-uk-of-trying-to-send-weapons-to-conflict-zones-including-south-sudan",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Two men convicted in UK of trying to send weapons to conflict zones, including South Sudan"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Civil Unrest",
+      "description": "Vietnamese Field Hospital in South Sudan proactively enhances Ebola response capacity",
+      "severity": "Medium",
+      "source": "Pachodo",
+      "sourceUrl": "https://pachodo.org/news-from-various-sources/45071-vietnamese-field-hospital-in-south-sudan-proactively-enhances-ebola-response-capacity",
+      "_confidence": 0.75,
+      "_threat_specific": true,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "Vietnamese Field Hospital in South Sudan proactively enhances Ebola response capacity"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "Tigray Region",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "French journalist Augustine Passilly expelled from Ethiopia",
+      "severity": "Medium",
+      "source": "Ethiopia Observer",
+      "sourceUrl": "https://www.ethiopiaobserver.com/2026/06/12/french-journalist-augustine-passilly-expelled-from-ethiopia/",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "French journalist Augustine Passilly expelled from Ethiopia"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "RT @rene_renelefort: A short sentence sums up Getachew Reda article’s bias in Al Jazeera: “Pretoria Agreem…",
+      "severity": "Medium",
+      "source": "Martin Plaut",
+      "sourceUrl": "https://x.com/martinplaut/status/2065375733594071514",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "RT @rene_renelefort: A short sentence sums up  Getachew Reda article’s bias in Al Jazeera: “Pretoria Agreem…"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "French journalist Augustine Passilly expelled from Ethiopia.",
+      "severity": "Medium",
+      "source": "Martin Plaut",
+      "sourceUrl": "https://x.com/martinplaut/status/2065370968583725192",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "French journalist Augustine Passilly expelled from Ethiopia."
+    },
+    {
+      "country": "Ethiopia",
+      "region": "Oromia",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "RT @ACLEDINFO: Did #Ethiopia’s elections worsen existing conflicts? More than 200 Orthodox Christian proper…",
+      "severity": "Medium",
+      "source": "Martin Plaut",
+      "sourceUrl": "https://x.com/martinplaut/status/2065370349940752819",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "RT @ACLEDINFO: Did #Ethiopia’s elections worsen existing conflicts? More than 200 Orthodox Christian proper…"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "The Speaker of the Transitional National Legislative Assembly (TNLA) of South Sudan, Joseph Ngere Paciko, i…",
+      "severity": "Medium",
+      "source": "Eye Radio Juba",
+      "sourceUrl": "https://x.com/EyeRadioJuba/status/2065399411467821166",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "The Speaker of the Transitional National Legislative Assembly (TNLA) of South Sudan, Joseph Ngere Paciko, i…"
+    },
+    {
+      "country": "South Sudan",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "South Sudanese comedian and musician Alex Taban, known professionally as Longonyo, has graduated from Los A…",
+      "severity": "Medium",
+      "source": "Eye Radio Juba",
+      "sourceUrl": "https://x.com/EyeRadioJuba/status/2065377811703947533",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "South Sudanese comedian and musician Alex Taban, known professionally as Longonyo, has graduated from Los A…"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Juba",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "The South Sudan National Police Service plans to establish new “statement points” across Juba to make it ea…",
+      "severity": "Medium",
+      "source": "Eye Radio Juba",
+      "sourceUrl": "https://x.com/EyeRadioJuba/status/2065377526990405660",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "The South Sudan National Police Service plans to establish new “statement points” across Juba to make it ea…"
+    },
+    {
+      "country": "South Sudan",
+      "region": "Juba",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "The family of an abducted South Sudanese businessman has confirmed that Athorbey Al-Gaddhaffy-Dit is in mil…",
+      "severity": "Medium",
+      "source": "Eye Radio Juba",
+      "sourceUrl": "https://x.com/EyeRadioJuba/status/2065329093550256598",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "South Sudan"
+      ],
+      "_raw_title": "The family of an abducted South Sudanese businessman has confirmed that Athorbey Al-Gaddhaffy-Dit is in mil…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "“It is unlikely that I would ever take another passport that means more to me than my #Somali one.",
+      "severity": "Medium",
+      "source": "SMS Somali TV",
+      "sourceUrl": "https://x.com/SMSSomaliTV1/status/2065397877153616370",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "“It is unlikely that I would ever take another passport that means more to me than my #Somali one."
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "“We intended these camels to encourage and support the Somali National Army forces stationed in #South West…",
+      "severity": "Medium",
+      "source": "SMS Somali TV",
+      "sourceUrl": "https://x.com/SMSSomaliTV1/status/2065394889177579889",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "“We intended these camels to encourage and support the Somali National Army forces stationed in #South West…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Lalis Spare Parts is a large #store that sells vehicle parts and is a major spare parts supplier. It was op…",
+      "severity": "Medium",
+      "source": "SMS Somali TV",
+      "sourceUrl": "https://x.com/SMSSomaliTV1/status/2065391561676824853",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Lalis Spare Parts is a large #store that sells vehicle parts and is a major spare parts supplier. It was op…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "#Residents of the Siliga #Towfiiq neighborhood have expressed their gratitude to the #Somali government for…",
+      "severity": "Medium",
+      "source": "SMS Somali TV",
+      "sourceUrl": "https://x.com/SMSSomaliTV1/status/2065330058500218888",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "#Residents of the Siliga #Towfiiq neighborhood have expressed their gratitude to the #Somali government for…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Hassan Sheikh: Mogadishu Unrest Drove Away Billion-Dollar Investors and Damaged Somalia’s Image https://t.c…",
+      "severity": "Medium",
+      "source": "Baidoa Online",
+      "sourceUrl": "https://x.com/BaidoaOnline/status/2065374805990289677",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Hassan Sheikh: Mogadishu Unrest Drove Away Billion-Dollar Investors and Damaged Somalia’s Image https://t.c…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Terrorism",
+      "description": "Somali Intelligence Seizes Over 100 Barrels of Bomb-Making Chemicals Allegedly Bound for Al-Shabaab https:/…",
+      "severity": "Medium",
+      "source": "Eye on Somalia",
+      "sourceUrl": "https://x.com/Eye_on_Somalia/status/2065401567017308356",
+      "_confidence": 0.75,
+      "_threat_specific": true,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somali Intelligence Seizes Over 100 Barrels of Bomb-Making Chemicals Allegedly Bound for Al-Shabaab https:/…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Somali Referee Omar Artan to Officiate Uefa Super Cup in Historic First for Somalia https://t.co/ANjzT4Y5Td…",
+      "severity": "Medium",
+      "source": "Eye on Somalia",
+      "sourceUrl": "https://x.com/Eye_on_Somalia/status/2065400802206990571",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somali Referee Omar Artan to Officiate Uefa Super Cup in Historic First for Somalia https://t.co/ANjzT4Y5Td…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Turkish Shipping Firm Akkon Lines Launches Operations in Somalia Through Mogadishu Port https://t.co/lFQadK…",
+      "severity": "Medium",
+      "source": "Eye on Somalia",
+      "sourceUrl": "https://x.com/Eye_on_Somalia/status/2065400115733676437",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Turkish Shipping Firm Akkon Lines Launches Operations in Somalia Through Mogadishu Port https://t.co/lFQadK…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Top African Referee Omar Artan to Officiate 2026 Uefa Super Cup After Being Unable to Participate in FIFA W…",
+      "severity": "Medium",
+      "source": "Eye on Somalia",
+      "sourceUrl": "https://x.com/Eye_on_Somalia/status/2065328596403831087",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Top African Referee Omar Artan to Officiate 2026 Uefa Super Cup After Being Unable to Participate in FIFA W…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Somali President Inaugurates Development Projects During Visit to Hirshabelle Capital https://t.co/dWokJNai…",
+      "severity": "Medium",
+      "source": "Eye on Somalia",
+      "sourceUrl": "https://x.com/Eye_on_Somalia/status/2065301389329473842",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somali President Inaugurates Development Projects During Visit to Hirshabelle Capital https://t.co/dWokJNai…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Southwest State Leader Sheikh Aden Madobe Formally Assumes Office in Baidoa https://t.co/MxFpgzb8u6 #AlAfri…",
+      "severity": "Medium",
+      "source": "Eye on Somalia",
+      "sourceUrl": "https://x.com/Eye_on_Somalia/status/2065300635323605414",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Southwest State Leader Sheikh Aden Madobe Formally Assumes Office in Baidoa https://t.co/MxFpgzb8u6 #AlAfri…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Hirshabelle overcame security and cost challenges Guudlaawe said as Jowhar inaugurated new projects with…",
+      "severity": "Medium",
+      "source": "Dawan Africa",
+      "sourceUrl": "https://x.com/DawanAfrica/status/2065329434127630429",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Hirshabelle  overcame  security and cost challenges Guudlaawe said as Jowhar inaugurated new projects with…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Somaliland President Abdirahman Iro is set to embark on his first visit to #Israel on the 14th of this mont…",
+      "severity": "Medium",
+      "source": "Garowe Online",
+      "sourceUrl": "https://x.com/GaroweOnline/status/2065353219585241491",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Somaliland President Abdirahman Iro is set to embark on his first visit to #Israel on the 14th of this mont…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "IN PICTURES: Former Speaker of the Federal Parliament of #Somalia, Sheikh Aden Mohamed Nur (Madobe) officia…",
+      "severity": "Medium",
+      "source": "Frontier Online K",
+      "sourceUrl": "https://x.com/FrontierOnlineK/status/2065402984771527075",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "IN PICTURES: Former Speaker of the Federal Parliament of #Somalia, Sheikh Aden Mohamed Nur (Madobe) officia…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "The founding President of Hirshabelle, H.E. Ali Abdullahi Cosoble, officially commended the administration'…",
+      "severity": "Medium",
+      "source": "SONNA Live",
+      "sourceUrl": "https://x.com/SONNALIVE/status/2065428198842589577",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "The founding President of Hirshabelle, H.E. Ali Abdullahi Cosoble, officially commended the administration'…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Since its establishment in 2016, Hirshabelle State has executed a masterclass in governance and stabilizati…",
+      "severity": "Medium",
+      "source": "SONNA Live",
+      "sourceUrl": "https://x.com/SONNALIVE/status/2065426575743492295",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Since its establishment in 2016, Hirshabelle State has executed a masterclass in governance and stabilizati…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "The Minister of Fisheries and Blue Economy, Ahmed Hassan, emphasizes that the massive infrastructure launch…",
+      "severity": "Medium",
+      "source": "SONNA Live",
+      "sourceUrl": "https://x.com/SONNALIVE/status/2065423537742000219",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "The Minister of Fisheries and Blue Economy, Ahmed Hassan, emphasizes that the massive infrastructure launch…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Minister of Interior Ali Hosh connects the regional infrastructure launch to the broader national agenda. \"…",
+      "severity": "Medium",
+      "source": "SONNA Live",
+      "sourceUrl": "https://x.com/SONNALIVE/status/2065422742678126815",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Minister of Interior Ali Hosh connects the regional infrastructure launch to the broader national agenda. \"…"
+    },
+    {
+      "country": "Somalia",
+      "region": "Mogadishu",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "The Port of Mogadishu has officially welcomed Akkon Lines, establishing a direct shipping route between Som…",
+      "severity": "Medium",
+      "source": "SONNA Live",
+      "sourceUrl": "https://x.com/SONNALIVE/status/2065422069785903334",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "The Port of Mogadishu has officially welcomed Akkon Lines, establishing a direct shipping route between Som…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Minister of Information culture and tourism Abdifatah Qassim declares that Somalia's physical development r…",
+      "severity": "Medium",
+      "source": "SONNA Live",
+      "sourceUrl": "https://x.com/SONNALIVE/status/2065419817369104739",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Minister of Information culture and tourism Abdifatah Qassim declares that Somalia's physical development r…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Natural Hazard",
+      "description": "Jowhar is rapidly transforming into a fortified hub for regional governance and commerce. The newly inaugur…",
+      "severity": "Medium",
+      "source": "SONNA Live",
+      "sourceUrl": "https://x.com/SONNALIVE/status/2065418119833645221",
+      "_confidence": 0.75,
+      "_threat_specific": true,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Jowhar is rapidly transforming into a fortified hub for regional governance and commerce. The newly inaugur…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "UPDATE: IGAD Executive Secretary @DrWorkneh has congratulated Somali referee Omar Artan after his appointme…",
+      "severity": "Medium",
+      "source": "The Daily Somalia",
+      "sourceUrl": "https://x.com/TheDailySomalia/status/2065360913968799873",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "UPDATE: IGAD Executive Secretary @DrWorkneh has congratulated Somali referee Omar Artan after his appointme…"
+    },
+    {
+      "country": "Somalia",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Israeli media reported that Somaliland President Abdirahman Irro, is expected to make an official visit to…",
+      "severity": "Medium",
+      "source": "The Daily Somalia",
+      "sourceUrl": "https://x.com/TheDailySomalia/status/2065357863627690263",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Somalia"
+      ],
+      "_raw_title": "Israeli media reported that Somaliland President Abdirahman Irro, is expected to make an official visit to…"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Kinshasa : L’arrivée de l’opposant radical, Martin Fayulu sur le lieu du Sit-in https://t.co/ymjGIE9Qn4",
+      "severity": "Medium",
+      "source": "Voice of Congo",
+      "sourceUrl": "https://x.com/VoiceOfCongo/status/2065384806658052561",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "Kinshasa : L’arrivée de l’opposant radical, Martin Fayulu sur le lieu du Sit-in https://t.co/ymjGIE9Qn4"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Sit-in de la C64 à #Kinshasa: Martin Fayulu blessé et évacué à l'hôpital https://t.co/99Jol5DJkc",
+      "severity": "Medium",
+      "source": "Alternance CD",
+      "sourceUrl": "https://x.com/alternancecd/status/2065411461271191898",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "Sit-in de la C64 à #Kinshasa: Martin Fayulu blessé et évacué à l'hôpital https://t.co/99Jol5DJkc"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Sit-in de la #C64 à Kinshasa contre le changement de la Constitution: l'opposant Delly Sessanga est sorti d…",
+      "severity": "Medium",
+      "source": "Alternance CD",
+      "sourceUrl": "https://x.com/alternancecd/status/2065392365284565384",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "Sit-in de la #C64 à Kinshasa contre le changement de la Constitution: l'opposant Delly Sessanga est sorti d…"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Sit-in de la C64 à #Kinshasa : l'opposant Martin Fayulu présent dans la rue. https://t.co/gNMxPjW5sH",
+      "severity": "Medium",
+      "source": "Alternance CD",
+      "sourceUrl": "https://x.com/alternancecd/status/2065385434981466199",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "Sit-in de la C64 à #Kinshasa : l'opposant Martin Fayulu présent dans la rue. https://t.co/gNMxPjW5sH"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Sit-in de l'opposition à #Kinshasa: l'ACP fait état d' \"une circulation normale\" des transports en commun e…",
+      "severity": "Medium",
+      "source": "Alternance CD",
+      "sourceUrl": "https://x.com/alternancecd/status/2065382391544262886",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "Sit-in de l'opposition à #Kinshasa: l'ACP fait état d' \"une circulation normale\" des transports en commun e…"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Sit-in de la C64 à Kinshasa: l'opposant Prince Epenge alerte sur l'attaque du siège de son parti politique,…",
+      "severity": "Medium",
+      "source": "Alternance CD",
+      "sourceUrl": "https://x.com/alternancecd/status/2065381403890536833",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "Sit-in de la C64 à Kinshasa: l'opposant Prince Epenge alerte sur l'attaque du siège de son parti politique,…"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "#Kinshasa : La situation est également restée très tendue aux abords du Palais du Peuple, à la suite d’alte…",
+      "severity": "Medium",
+      "source": "Media Congo",
+      "sourceUrl": "https://x.com/mediacongo/status/2065425554367565836",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "#Kinshasa : La situation est également restée très tendue aux abords du Palais du Peuple, à la suite d’alte…"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Sit-in à Kinshasa: Jean-Marc Kabund et @DSESANGA figure également parmi les personnes blessées lors des inc…",
+      "severity": "Medium",
+      "source": "Media Congo",
+      "sourceUrl": "https://x.com/mediacongo/status/2065424160239571366",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "Sit-in à Kinshasa: Jean-Marc Kabund et @DSESANGA figure également parmi les personnes blessées lors des inc…"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Sit-in de la C64: Des tensions sont signalées autour du Palais du Peuple et sur le boulevard Triomphal à Ki…",
+      "severity": "Medium",
+      "source": "Media Congo",
+      "sourceUrl": "https://x.com/mediacongo/status/2065410983275753572",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "Sit-in de la C64: Des tensions sont signalées autour du Palais du Peuple et sur le boulevard Triomphal à Ki…"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Kinshasa: Alors que les abords du Palais du Peuple sont placés sous haute surveillance, des militants de l’…",
+      "severity": "Medium",
+      "source": "Media Congo",
+      "sourceUrl": "https://x.com/mediacongo/status/2065376956799934831",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "Kinshasa: Alors que les abords du Palais du Peuple sont placés sous haute surveillance, des militants de l’…"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Kinshasa: Suite à l’interdiction du sit-in de l’opposition par @GouvernoratK, un important dispositif sécur…",
+      "severity": "Medium",
+      "source": "Media Congo",
+      "sourceUrl": "https://x.com/mediacongo/status/2065376623621243086",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "Kinshasa: Suite à l’interdiction du sit-in de l’opposition par @GouvernoratK, un important dispositif sécur…"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "RDC: Membre de la coalition C64, @moise_katumbi a lancé un appel à la mobilisation en faveur du sit-in de l…",
+      "severity": "Medium",
+      "source": "Media Congo",
+      "sourceUrl": "https://x.com/mediacongo/status/2065350689149050990",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "RDC: Membre de la coalition C64, @moise_katumbi a lancé un appel à la mobilisation en faveur du sit-in de l…"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Egypte: @Presidence_RDC Félix Tshisekedi s’est rendu dans la Nouvelle Capitale Administrative égyptienne, u…",
+      "severity": "Medium",
+      "source": "Media Congo",
+      "sourceUrl": "https://x.com/mediacongo/status/2065332019958055275",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "Egypte: @Presidence_RDC Félix Tshisekedi s’est rendu dans la Nouvelle Capitale Administrative égyptienne, u…"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Kinshasa: @daniel_bumba_01 a refusé d’accorder l’autorisation au sit-in annoncé par l’opposition devant le…",
+      "severity": "Medium",
+      "source": "Media Congo",
+      "sourceUrl": "https://x.com/mediacongo/status/2065328332799869268",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "Kinshasa: @daniel_bumba_01 a refusé d’accorder l’autorisation au sit-in annoncé par l’opposition devant le…"
+    },
+    {
+      "country": "DRC",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Kasaï-Oriental: « Toucher à un avocat, c’est toucher à la justice », les avocats de Mbuji-Mayi, réclament q…",
+      "severity": "Medium",
+      "source": "Media Congo",
+      "sourceUrl": "https://x.com/mediacongo/status/2065315159002812537",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "Kasaï-Oriental: « Toucher à un avocat, c’est toucher à la justice », les avocats de Mbuji-Mayi, réclament q…"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Après cinq jours passés à #Matadi, au Kongo Central, et un concert livré le samedi dernier à l’hôtel #Ledya…",
+      "severity": "Medium",
+      "source": "Kongo Media RDC",
+      "sourceUrl": "https://x.com/KongoMediaRDC/status/2065319040461979707",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "Après cinq jours passés à #Matadi, au Kongo Central, et un concert livré le samedi dernier à l’hôtel #Ledya…"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "🚨Des tirs sont entendus à l’instant aux abords du Palais du Peuple à Kinshasa.",
+      "severity": "Medium",
+      "source": "Radio Okapi (X)",
+      "sourceUrl": "https://x.com/radiookapi/status/2065427728325640475",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "🚨Des tirs sont entendus à l’instant aux abords du Palais du Peuple à Kinshasa."
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Un renforcement du dispositif sécuritaire est observé ce vendredi 12 juin 2026 aux alentours du Palais du P…",
+      "severity": "Medium",
+      "source": "Radio Okapi (X)",
+      "sourceUrl": "https://x.com/radiookapi/status/2065387766330851523",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "Un renforcement du dispositif sécuritaire est observé ce vendredi 12 juin 2026 aux alentours du Palais du P…"
+    },
+    {
+      "country": "DRC",
+      "region": "Ituri Province",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "À #Kinshasa, MSF fait le point sur la 17ème épidémie d'Ebola en #RDC. Malgré l'insécurité en Ituri, épicent…",
+      "severity": "Medium",
+      "source": "Radio Okapi (X)",
+      "sourceUrl": "https://x.com/radiookapi/status/2065353337793401342",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "À #Kinshasa, MSF fait le point sur la 17ème épidémie d'Ebola en #RDC. Malgré l'insécurité en Ituri, épicent…"
+    },
+    {
+      "country": "DRC",
+      "region": "Ituri Province",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "En #Ituri, l’UNADI plaide pour l’implication directe des leaders locaux dans la riposte contre l’épidémie d…",
+      "severity": "Medium",
+      "source": "Radio Okapi (X)",
+      "sourceUrl": "https://x.com/radiookapi/status/2065347321060077619",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "En #Ituri, l’UNADI plaide pour l’implication directe des leaders locaux dans la riposte contre l’épidémie d…"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "La tension est montée d’un cran après le vote par l’Assemblée nationale du projet de loi référendaire désor…",
+      "severity": "Medium",
+      "source": "Radio Okapi (X)",
+      "sourceUrl": "https://x.com/radiookapi/status/2065307501751382127",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "La tension est montée d’un cran après le vote par l’Assemblée nationale du projet de loi référendaire désor…"
+    },
+    {
+      "country": "DRC",
+      "region": "Ituri Province",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "L'effondrement du pont Ituri 2 à Mambasa perturbe l'évacuation des produits agricoles entre les chefferies…",
+      "severity": "Medium",
+      "source": "Radio Okapi (X)",
+      "sourceUrl": "https://x.com/radiookapi/status/2065289739356209174",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "L'effondrement du pont Ituri 2 à Mambasa perturbe l'évacuation des produits agricoles entre les chefferies…"
+    },
+    {
+      "country": "DRC",
+      "region": "Ituri Province",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Ituri : Johnny Luboya pose la première pierre pour la construction du cabinet du gouverneur de province",
+      "severity": "Medium",
+      "source": "RTNC Officielle",
+      "sourceUrl": "https://x.com/rtncofficielle1/status/2065377846789345372",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "Ituri : Johnny Luboya pose la première pierre pour la construction du cabinet du gouverneur de province"
+    },
+    {
+      "country": "DRC",
+      "region": "Kinshasa",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Kinshasa : pas de sit-in ce vendredi devant le Palais du Peuple, l’activité délocalisée",
+      "severity": "Medium",
+      "source": "RTNC Officielle",
+      "sourceUrl": "https://x.com/rtncofficielle1/status/2065372283225436184",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "Kinshasa : pas de sit-in ce vendredi devant le Palais du Peuple, l’activité délocalisée"
+    },
+    {
+      "country": "DRC",
+      "region": "Ituri Province",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "Tenasosp : Ituri 1 aligne plus de 34.000 candidats",
+      "severity": "Medium",
+      "source": "RTNC Officielle",
+      "sourceUrl": "https://x.com/rtncofficielle1/status/2065368964822147465",
+      "_confidence": 0.65,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "Tenasosp : Ituri 1 aligne plus de 34.000 candidats"
+    },
+    {
+      "country": "Ethiopia",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "RT @Ojukwu_Bianca: Done and Dusted!",
+      "severity": "Medium",
+      "source": "Africa Updates",
+      "sourceUrl": "https://x.com/africaupdates/status/2065422992025268540",
+      "_confidence": 0.5,
+      "_threat_specific": false,
+      "_all_countries": [
+        "Ethiopia"
+      ],
+      "_raw_title": "RT @Ojukwu_Bianca: Done and Dusted!"
+    },
+    {
+      "country": "DRC",
+      "region": "National",
+      "date": "2026-06-12",
+      "type": "Armed Conflict",
+      "description": "DR Congo 🇨🇩 has arrived in the United States in style ahead of the 2026 FIFA World Cup.",
+      "severity": "Medium",
+      "source": "Africa View Facts",
+      "sourceUrl": "https://x.com/AfricaViewFacts/status/2065308620904927312",
+      "_confidence": 0.5,
+      "_threat_specific": false,
+      "_all_countries": [
+        "DRC"
+      ],
+      "_raw_title": "DR Congo 🇨🇩 has arrived in the United States in style ahead of the 2026 FIFA World Cup."
+    }
+  ]
+}

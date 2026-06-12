@@ -34,7 +34,19 @@ git push -u origin main
 
 (If `git push` asks for a password, use a **GitHub Personal Access Token** instead — generate one at https://github.com/settings/tokens with the `repo` scope.)
 
-### 2. Enable GitHub Pages
+### 2. Add the Xquik API key as a GitHub Secret
+
+X/Twitter tweets are fetched through [Xquik](https://xquik.com). The workflow needs your API key as a repository secret:
+
+1. Go to https://github.com/lizciat/security_dashboard/settings/secrets/actions
+2. Click **New repository secret**.
+3. Name: `XQUIK_API_KEY`
+4. Value: paste your key (starts with `xq_…`).
+5. Click **Add secret**.
+
+If the secret is missing the pipeline still runs, but X accounts return 0 tweets.
+
+### 3. Enable GitHub Pages
 
 This is a one-click step in the browser:
 
@@ -44,7 +56,7 @@ This is a one-click step in the browser:
 
 That's it. The next workflow run will publish to `https://lizciat.github.io/security_dashboard/`.
 
-### 3. Trigger the first run
+### 4. Trigger the first run
 
 Go to the **Actions** tab → **Daily Update** → **Run workflow** → **Run workflow** (green button). Wait ~3–5 minutes. Refresh the live URL.
 
@@ -81,6 +93,6 @@ The dashboard HTML is written to `output/run_<timestamp>/`. Run `python build_si
 
 ## Notes / caveats
 
-- **Nitter flakiness:** X/Twitter accounts are scraped via public Nitter instances. These rate-limit and rotate frequently; expect some accounts to return 0 articles on any given run. The pipeline tolerates this — it logs the failures and continues.
+- **Xquik X scraping:** X/Twitter accounts are fetched via the Xquik REST API. If `XQUIK_API_KEY` is missing or the quota is exhausted, X sources return 0 tweets but the pipeline continues with RSS news sources.
 - **Free tier:** GitHub Actions gives public repos unlimited free minutes; GitHub Pages has no bandwidth charge for normal use.
 - **Time window:** The dashboard shows the last 3 days by default. Change `--days N` in `.github/workflows/daily.yml` to adjust.

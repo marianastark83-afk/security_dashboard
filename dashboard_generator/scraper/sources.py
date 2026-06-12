@@ -11,28 +11,25 @@ Each source entry:
 
 X / Twitter accounts
 --------------------
-Twitter/X no longer exposes native RSS. These accounts are fetched via
-Nitter (an open-source X mirror that provides RSS). Two Nitter instances
-are tried in sequence as primary / fallback; if both fail the source is
-silently skipped. Nitter feed format:
-    https://<nitter-instance>/<username>/rss
+X accounts are fetched via the Xquik REST API (https://xquik.com). The
+`_x()` helper marks the source with `x_handle`; the fetcher dispatcher
+routes it to scraper.xquik_fetcher.fetch_xquik_user.
 
-Accounts that maintain their own news websites use those RSS feeds directly
-as more reliable alternatives.
+Requires environment variable XQUIK_API_KEY. If not set, X sources
+silently return no tweets and the pipeline continues with RSS only.
+
+Accounts that maintain their own news websites use those RSS feeds
+directly as more reliable alternatives — see Sudan War Monitor, Addis
+Standard, etc.
 """
-
-# Nitter instances to use for X accounts (primary, fallback)
-_N1 = "https://nitter.poast.org"
-_N2 = "https://nitter.privacydev.net"
 
 
 def _x(handle: str, name: str, countries: list, language: str = "en") -> dict:
-    """Build a source config entry for a Twitter/X account via Nitter RSS."""
+    """Build a source config entry for a Twitter/X account fetched via Xquik."""
     username = handle.lstrip("@")
     return {
         "name":      name,
-        "rss":       f"{_N1}/{username}/rss",
-        "rss_alt":   f"{_N2}/{username}/rss",
+        "x_handle":  username,
         "countries": countries,
         "language":  language,
     }
@@ -97,21 +94,18 @@ SOURCES = [
     {
         "name":    "TRT Afrika",
         "rss":     "https://www.trtafrika.com/feed/",
-        "rss_alt": _x("trtafrika", "TRT Afrika", ["Sudan","South Sudan","DRC","Somalia","Ethiopia"])["rss"],
         "countries": ["Sudan", "South Sudan", "DRC", "Somalia", "Ethiopia"],
     },
     # @AfricaCDC — Africa Centres for Disease Control (health + crisis alerts)
     {
         "name":    "Africa CDC",
         "rss":     "https://africacdc.org/feed/",
-        "rss_alt": _x("AfricaCDC", "Africa CDC", ["Sudan","South Sudan","DRC","Somalia","Ethiopia"])["rss"],
         "countries": ["Sudan", "South Sudan", "DRC", "Somalia", "Ethiopia"],
     },
     # @ForeignAffairs — policy analysis and strategic context
     {
         "name":    "Foreign Affairs",
         "rss":     "https://www.foreignaffairs.com/rss.xml",
-        "rss_alt": _x("ForeignAffairs", "Foreign Affairs", ["Sudan","South Sudan","DRC","Somalia","Ethiopia"])["rss"],
         "countries": ["Sudan", "South Sudan", "DRC", "Somalia", "Ethiopia"],
     },
 
@@ -122,7 +116,6 @@ SOURCES = [
     {
         "name":    "Sudan War Monitor",
         "rss":     "https://sudanwarmonitor.substack.com/feed",
-        "rss_alt": _x("sudan_war", "Sudan War Monitor", ["Sudan"])["rss"],
         "countries": ["Sudan"],
     },
     {
@@ -139,7 +132,6 @@ SOURCES = [
     {
         "name":    "The Sudan Times",
         "rss":     "https://thesudantimes.net/feed/",
-        "rss_alt": _x("thesudantimes", "The Sudan Times", ["Sudan"])["rss"],
         "countries": ["Sudan"],
     },
     # @Sudan_tweet — Sudan news aggregator (X/Nitter only)
@@ -169,7 +161,6 @@ SOURCES = [
     {
         "name":    "MSF South Sudan",
         "rss":     "https://www.msf.org/rss/news",
-        "rss_alt": _x("MSF_SouthSudan", "MSF South Sudan", ["South Sudan"])["rss"],
         "countries": ["South Sudan"],
     },
 
@@ -195,14 +186,12 @@ SOURCES = [
     {
         "name":    "Ethiopian News Agency",
         "rss":     "https://www.ena.et/en/?feed=rss2",
-        "rss_alt": _x("EthiopianNewsA", "Ethiopian News Agency", ["Ethiopia"])["rss"],
         "countries": ["Ethiopia"],
     },
     # @addisstandard — Addis Standard (independent journalism)
     {
         "name":    "Addis Standard",
         "rss":     "https://addisstandard.com/feed/",
-        "rss_alt": _x("addisstandard", "Addis Standard", ["Ethiopia"])["rss"],
         "countries": ["Ethiopia"],
     },
     # @EthiopiaNews3 — Ethiopia News (X/Nitter)
@@ -268,7 +257,6 @@ SOURCES = [
     {
         "name":    "MONUSCO",
         "rss":     "https://monusco.unmissions.org/en/rss.xml",
-        "rss_alt": _x("MONUSCO", "MONUSCO", ["DRC"])["rss"],
         "countries": ["DRC"],
     },
 

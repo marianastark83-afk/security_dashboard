@@ -34,6 +34,8 @@ jobs:
 
       - name: Run pipeline
         working-directory: dashboard_generator
+        env:
+          XQUIK_API_KEY: ${{ secrets.XQUIK_API_KEY }}
         run: python pipeline.py --days 3
         continue-on-error: true
 
