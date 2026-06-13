@@ -8,3 +8,9 @@ venv/
 .env
 *.egg-info/
 .pytest_cache/
+# Internal tooling — never commit
+.claude/
+**/.claude/
+CLAUDE.md
+MEMORY.md
+.mcp.json
