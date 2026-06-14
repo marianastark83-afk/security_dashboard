@@ -2,8 +2,8 @@
 
 Self-updating static dashboard tracking security incidents across Sudan, South Sudan, DRC, Somalia, and Ethiopia. A Python pipeline scrapes curated news + X (Twitter) sources, classifies incidents, and generates a self-contained HTML report.
 
-**Live site:** https://lizciat.github.io/security_dashboard/
-**Past runs:** https://lizciat.github.io/security_dashboard/runs/
+**Live site:** https://byliz.github.io/security_dashboard/
+**Past runs:** https://byliz.github.io/security_dashboard/runs/
 
 > **Looking for the user guide?**
 > Read [`dashboard_guide.md`](./dashboard_guide.md) directly in your browser, or download [`dashboard_guide.pdf`](./dashboard_guide.pdf) to print or share.
@@ -29,7 +29,7 @@ Open Terminal, then:
 cd "/Users/lizethllanos/Library/CloudStorage/GoogleDrive-llanoslizeth@gmail.com/My Drive/security dashboard"
 git init
 git branch -M main
-git remote add origin https://github.com/lizciat/security_dashboard.git
+git remote add origin https://github.com/byliz/security_dashboard.git
 git add .
 git commit -m "Initial commit: security dashboard pipeline + daily auto-publish"
 git push -u origin main
@@ -41,7 +41,7 @@ git push -u origin main
 
 X/Twitter tweets are fetched through [Xquik](https://xquik.com). The workflow needs your API key as a repository secret:
 
-1. Go to https://github.com/lizciat/security_dashboard/settings/secrets/actions
+1. Go to https://github.com/byliz/security_dashboard/settings/secrets/actions
 2. Click **New repository secret**.
 3. Name: `XQUIK_API_KEY`
 4. Value: paste your key (starts with `xq_…`).
@@ -53,11 +53,11 @@ If the secret is missing the pipeline still runs, but X accounts return 0 tweets
 
 This is a one-click step in the browser:
 
-1. Go to https://github.com/lizciat/security_dashboard/settings/pages
+1. Go to https://github.com/byliz/security_dashboard/settings/pages
 2. Under **Source**, select **GitHub Actions**.
 3. Save.
 
-That's it. The next workflow run will publish to `https://lizciat.github.io/security_dashboard/`.
+That's it. The next workflow run will publish to `https://byliz.github.io/security_dashboard/`.
 
 ### 4. Trigger the first run
 
