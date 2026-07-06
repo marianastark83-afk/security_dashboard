@@ -47,7 +47,8 @@ SOURCES = [
     },
     {
         "name": "AllAfrica",
-        "rss":  "https://allafrica.com/tools/headlines/rss.xml",
+        # 2026-07: old /tools/headlines/rss.xml now 404s; RDF endpoint works.
+        "rss":  "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
         "countries": ["Sudan", "South Sudan", "DRC", "Somalia", "Ethiopia"],
     },
     {
@@ -78,18 +79,21 @@ SOURCES = [
         "rss":  "https://www.criticalthreats.org/feed/",
         "countries": ["Sudan", "South Sudan", "DRC", "Somalia", "Ethiopia"],
     },
-    {
-        "name": "NewsNow World News",
-        "rss":  "https://www.newsnow.co.uk/h/World+News?rss",
-        "countries": ["Sudan", "South Sudan", "DRC", "Somalia", "Ethiopia"],
-    },
-    # @Reuters — Reuters Africa wire feed
-    {
-        "name":    "Reuters",
-        "rss":     "https://feeds.reuters.com/reuters/worldnews",
-        "rss_alt": "https://feeds.reuters.com/Reuters/worldNews",
-        "countries": ["Sudan", "South Sudan", "DRC", "Somalia", "Ethiopia"],
-    },
+    # DISABLED 2026-07: NewsNow dropped RSS; ?rss now returns an HTML page
+    # that parses as a malformed feed. Re-enable if they restore XML output.
+    # {
+    #     "name": "NewsNow World News",
+    #     "rss":  "https://www.newsnow.co.uk/h/World+News?rss",
+    #     "countries": ["Sudan", "South Sudan", "DRC", "Somalia", "Ethiopia"],
+    # },
+    # @Reuters — DISABLED 2026-07: Reuters discontinued public RSS feeds;
+    # feeds.reuters.com no longer resolves (connection failed on every run).
+    # {
+    #     "name":    "Reuters",
+    #     "rss":     "https://feeds.reuters.com/reuters/worldnews",
+    #     "rss_alt": "https://feeds.reuters.com/Reuters/worldNews",
+    #     "countries": ["Sudan", "South Sudan", "DRC", "Somalia", "Ethiopia"],
+    # },
     # @trtafrika — TRT Afrika regional coverage
     {
         "name":    "TRT Afrika",
@@ -146,11 +150,12 @@ SOURCES = [
         "rss_alt": "https://radiotamazuj.org/en/feed",
         "countries": ["South Sudan"],
     },
-    {
-        "name":    "NewsNow South Sudan",
-        "rss":     "https://www.newsnow.co.uk/h/World+News/Africa/South+Sudan?rss",
-        "countries": ["South Sudan"],
-    },
+    # DISABLED 2026-07: NewsNow dropped RSS (see note above).
+    # {
+    #     "name":    "NewsNow South Sudan",
+    #     "rss":     "https://www.newsnow.co.uk/h/World+News/Africa/South+Sudan?rss",
+    #     "countries": ["South Sudan"],
+    # },
     # @SouthSudanNews6 — South Sudan News (X/Nitter)
     _x("SouthSudanNews6", "South Sudan News", ["South Sudan"]),
     # @SSGglobal — South Sudan Government Global (X/Nitter)
@@ -160,7 +165,7 @@ SOURCES = [
     # @MSF_SouthSudan — MSF South Sudan
     {
         "name":    "MSF South Sudan",
-        "rss":     "https://www.msf.org/rss/news",
+        "rss":     "https://www.msf.org/rss/all",
         "countries": ["South Sudan"],
     },
 
@@ -174,14 +179,15 @@ SOURCES = [
     },
     {
         "name":    "AllAfrica Ethiopia",
-        "rss":     "https://allafrica.com/ethiopia/tools/headlines/rss.xml",
+        "rss":     "https://allafrica.com/tools/headlines/rdf/ethiopia/headlines.rdf",
         "countries": ["Ethiopia"],
     },
-    {
-        "name":    "NewsNow Ethiopia",
-        "rss":     "https://www.newsnow.co.uk/h/World+News/Africa/Ethiopia?rss",
-        "countries": ["Ethiopia"],
-    },
+    # DISABLED 2026-07: NewsNow dropped RSS (see note above).
+    # {
+    #     "name":    "NewsNow Ethiopia",
+    #     "rss":     "https://www.newsnow.co.uk/h/World+News/Africa/Ethiopia?rss",
+    #     "countries": ["Ethiopia"],
+    # },
     # @EthiopianNewsA — Ethiopian News Agency (state media)
     {
         "name":    "Ethiopian News Agency",
@@ -240,11 +246,12 @@ SOURCES = [
         "rss":     "https://www.theafricareport.com/country/democratic-republic-of-congo/feed/",
         "countries": ["DRC"],
     },
-    {
-        "name":    "NewsNow DRC",
-        "rss":     "https://www.newsnow.co.uk/h/World+News/Africa/DR+Congo?rss",
-        "countries": ["DRC"],
-    },
+    # DISABLED 2026-07: NewsNow dropped RSS (see note above).
+    # {
+    #     "name":    "NewsNow DRC",
+    #     "rss":     "https://www.newsnow.co.uk/h/World+News/Africa/DR+Congo?rss",
+    #     "countries": ["DRC"],
+    # },
     {
         "name":    "AllAfrica DRC",
         "rss":     "https://allafrica.com/drc/tools/headlines/rss.xml",
@@ -378,7 +385,7 @@ SOURCES = [
     _x("Hornpostnews",   "Horn Post News",       ["Somalia"]),
     _x("Eye_on_Somalia", "Eye on Somalia",       ["Somalia"]),
     _x("DawanAfrica",    "Dawan Africa",         ["Somalia"]),
-    _x("SouthwestWatxh", "Southwest Watch",      ["Somalia"]),
+    _x("SouthwestWatch", "Southwest Watch",      ["Somalia"]),
     _x("GaroweOnline",   "Garowe Online",        ["Somalia"]),
     _x("FrontierOnlineK","Frontier Online K",    ["Somalia"]),
     _x("SONNALIVE",      "SONNA Live",           ["Somalia"]),
@@ -407,7 +414,7 @@ SOURCES = [
     _x("LarryMadowo",     "Larry Madowo",         ["Sudan","South Sudan","DRC","Somalia","Ethiopia"]),
     _x("Lattif",          "Lattif",               ["Sudan","Somalia","Ethiopia"]),
     _x("samirasawlani",   "Samira Sawlani",       ["Sudan","South Sudan","DRC","Somalia","Ethiopia"]),
-    _x("johnnallannamu",  "John Allan Namu",      ["Sudan","South Sudan","DRC","Somalia","Ethiopia"]),
+    _x("johnallannamu",   "John Allan Namu",      ["Sudan","South Sudan","DRC","Somalia","Ethiopia"]),
     _x("Afuncensored",    "Africa Uncensored",    ["Sudan","South Sudan","DRC","Somalia","Ethiopia"]),
     _x("Nairobi_News",    "Nairobi News",         ["Sudan","South Sudan","DRC","Somalia","Ethiopia"]),
     _x("Kalinaki",        "Daniel Kalinaki",      ["Sudan","South Sudan","DRC","Somalia","Ethiopia"]),

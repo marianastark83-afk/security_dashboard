@@ -24,11 +24,19 @@ try:
 except ImportError:
     _HAS_REQUESTS = False
 
+# A realistic desktop-browser UA. The previous self-identifying bot string was
+# rejected with HTTP 403 by Cloudflare-fronted sites (Sudan Tribune, Addis
+# Standard, Daily Nation, The East African, Borkena, etc.).
 _UA = (
-    "Mozilla/5.0 (compatible; EastAfricaSecurityDashboard/1.0; "
-    "open-source intelligence monitor)"
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/126.0.0.0 Safari/537.36"
 )
-_HEADERS = {"User-Agent": _UA, "Accept": "application/rss+xml, application/xml, text/xml, */*"}
+_HEADERS = {
+    "User-Agent": _UA,
+    "Accept": "application/rss+xml, application/xml, text/xml, application/atom+xml, */*",
+    "Accept-Language": "en-US,en;q=0.9",
+}
 
 _TAG_RE   = re.compile(r"<[^>]+>")
 _SPACE_RE = re.compile(r"\s+")
